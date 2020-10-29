@@ -1,6 +1,52 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>ETC入口联动收费</title>
+    <url>/2020/09/02/etcEntryLinkage/</url>
+    <content><![CDATA[<h1 id="ETC入口联动"><a href="#ETC入口联动" class="headerlink" title="ETC入口联动"></a>ETC入口联动</h1><p>&emsp;&emsp;登录成功，进入如图 1-6所示的系统主页面，系统首页为  ETC联动操作页面。<br>&emsp;&emsp;前提：已在系统配置中启用入口车道。<br>&emsp;&emsp;使用场景：客户车辆由入口 ETC车道或混合车道驶入、且安装成套卡签、标签未拆卸时。</p>
+<table>
+  <td><img src="/pub-images/laneEtc-1.jpg"  width="30%" /><div style="text-align:center;">图1.6</div></td>
+   </table>
+<div style="font-weight:bold;">&emsp;&emsp;ETC入口：客车操作</div>
+&emsp;&emsp;【选择车道】—【ETC联动】—【读卡】—【选择车型】—【选择车种】—【核对车牌号】—【选择颜色】—【拍摄照片】—【提交图片数据】—【算费】—【提交数据】
+
+<h1 id="ETC入口联动-具体流程"><a href="#ETC入口联动-具体流程" class="headerlink" title="ETC入口联动(具体流程)"></a>ETC入口联动(具体流程)</h1><p>&emsp;&emsp;在系统首页 ETC页面，选择联动的车道，再点击屏幕中央【ETC联动】按钮，进入 ETC入口联动界面，如图  1-7所示，ETC入口联动操作步骤如下：</p>
+   <table>
+        <td><img src="/pub-images/laneEtc-1.jpg"  width="60%" /><div style="text-align:center;">图1.6</div></td>
+        <td><img src="/pub-images/laneEtc-2.jpg"  width="60%" /><div style="text-align:center;">图1.7</div></td>
+       </table>
+&emsp;&emsp;1.读卡签：确认 ETC卡已插入电子标签后点击界面【读卡】按钮，读取ETC卡与电子标签内写入的车辆信息，同时由系统自动校验读取的卡签车辆信息一致性、卡签有效性、状态名单等，卡签信息读取成功且校验通过后显示到界面，且显示图像识别区域，如图 1-8所示；
+ <table>
+ <td><img src="/pub-images/laneEtc-2.jpg"  width="60%" /><div style="text-align:center;">图1.7</div></td>
+ <td><img src="/pub-images/laneEtc-3.jpg"  width="60%" /><div style="text-align:center;">图1.8</div></td>
+       </table>
+&emsp;&emsp;2.图片上传：在图像识别区域输入实际车牌号、选择实际车牌颜色，点击拍摄车辆照片，再点击界面【提交图片数据】按钮，如图 1-9所示
+
+<p>&emsp;&emsp;3.图片上传完成之后：在【入口信息】区域内，请选择相应的车型，车种进行核对。如图 1-10所示</p>
+<table>
+  <td><img src="/pub-images/laneEtc-4.jpg"  width="60%" /><div style="text-align:center;">图1.9</div></td>
+  <td><img src="/pub-images/laneEtc-5.jpg"  width="60%" /><div style="text-align:center;">图1.10</div></td>
+   </table>
+&emsp;&emsp;4.入口算费：在入口信息填写区域，选择实际入口车型、车种，再点击下方【算费】按钮，算费成功后在收费信息区域显示金额。
+
+<p>&emsp;&emsp;5.数据上传：算费成功后，将手持机放置 ETC卡签旁，再点击界面下方【提交数据】按钮，上传 ETC入口数据，如图  1-12所示，同时向卡签内写入车辆入口信息。</p>
+<table>
+  <td><img src="/pub-images/laneEtc-6.jpg"  width="60%" /><div style="text-align:center;">图1.11</div></td>
+   </table>
+
+<div style="font-weight:bold;">注意：不操作 ETC入口联动功能时，请返回至【ETC联动】主界面。</div>
+
+<h1 id="ETC入口：货车操作（ETC入口货车操作具体流程）"><a href="#ETC入口：货车操作（ETC入口货车操作具体流程）" class="headerlink" title="ETC入口：货车操作（ETC入口货车操作具体流程）"></a>ETC入口：货车操作（ETC入口货车操作具体流程）</h1><p>&emsp;&emsp;【选择车道】—【ETC联动】—【读卡】—【选择车型】—【选择车种】—【核对车牌号】—【选择颜色】—【拍摄照片】—【提交图片数据】—【计重信息】—【算费】—【提交数据】</p>
+<div style="font-weight:bold;">&emsp;&emsp;ETC入口货车操作步骤如下：</div>
+
+<p>&emsp;&emsp;1）读卡签：同客车操作;<br>&emsp;&emsp;2）提交图片数据：同客车操作;<br>&emsp;&emsp;3）获取计重信息：图片上传成功后，货车会显示如图 1-13所示界面，点击【计重信息】按钮，自动获取称重数据，信息获取成功后请务必核对车轴数，车轴数必须与车型相符（即货一、货二为 2轴、货三、货四、货五、货六依次为   3、4、5、6轴），若获取到的轴数不符，则手动修改；<br>&emsp;&emsp;4）入口算费：计重信息获取成功后，如图 1-14所示，点击下方【算费】按钮，算费成功后在收费信息区域显示金额，同客车操作；<br>&emsp;&emsp;5）数据上传：同客车操作。</p>
+<table>
+  <td><img src="/pub-images/laneEtcVan-1.jpg"  width="60%" /><div style="text-align:center;">图1.13</div></td>
+  <td><img src="/pub-images/laneEtcVan-2.jpg"  width="60%" /><div style="text-align:center;">图1.14</div></td>
+   </table>
+]]></content>
+  </entry>
+  <entry>
     <title>CPC入口联动收费</title>
     <url>/2020/09/03/cpcEntryLinkage/</url>
     <content><![CDATA[<h1 id="CPC入口联动收费"><a href="#CPC入口联动收费" class="headerlink" title="CPC入口联动收费"></a>CPC入口联动收费</h1><p>&emsp;&emsp;点击系统主页面下方 ETC右侧按钮，切换至CPC联动操作页面，如图1-15所示；</p>
@@ -156,52 +202,6 @@
 ]]></content>
   </entry>
   <entry>
-    <title>ETC入口联动收费</title>
-    <url>/2020/09/02/etcEntryLinkage/</url>
-    <content><![CDATA[<h1 id="ETC入口联动"><a href="#ETC入口联动" class="headerlink" title="ETC入口联动"></a>ETC入口联动</h1><p>&emsp;&emsp;登录成功，进入如图 1-6所示的系统主页面，系统首页为  ETC联动操作页面。<br>&emsp;&emsp;前提：已在系统配置中启用入口车道。<br>&emsp;&emsp;使用场景：客户车辆由入口 ETC车道或混合车道驶入、且安装成套卡签、标签未拆卸时。</p>
-<table>
-  <td><img src="/pub-images/laneEtc-1.jpg"  width="30%" /><div style="text-align:center;">图1.6</div></td>
-   </table>
-<div style="font-weight:bold;">&emsp;&emsp;ETC入口：客车操作</div>
-&emsp;&emsp;【选择车道】—【ETC联动】—【读卡】—【选择车型】—【选择车种】—【核对车牌号】—【选择颜色】—【拍摄照片】—【提交图片数据】—【算费】—【提交数据】
-
-<h1 id="ETC入口联动-具体流程"><a href="#ETC入口联动-具体流程" class="headerlink" title="ETC入口联动(具体流程)"></a>ETC入口联动(具体流程)</h1><p>&emsp;&emsp;在系统首页 ETC页面，选择联动的车道，再点击屏幕中央【ETC联动】按钮，进入 ETC入口联动界面，如图  1-7所示，ETC入口联动操作步骤如下：</p>
-   <table>
-        <td><img src="/pub-images/laneEtc-1.jpg"  width="60%" /><div style="text-align:center;">图1.6</div></td>
-        <td><img src="/pub-images/laneEtc-2.jpg"  width="60%" /><div style="text-align:center;">图1.7</div></td>
-       </table>
-&emsp;&emsp;1.读卡签：确认 ETC卡已插入电子标签后点击界面【读卡】按钮，读取ETC卡与电子标签内写入的车辆信息，同时由系统自动校验读取的卡签车辆信息一致性、卡签有效性、状态名单等，卡签信息读取成功且校验通过后显示到界面，且显示图像识别区域，如图 1-8所示；
- <table>
- <td><img src="/pub-images/laneEtc-2.jpg"  width="60%" /><div style="text-align:center;">图1.7</div></td>
- <td><img src="/pub-images/laneEtc-3.jpg"  width="60%" /><div style="text-align:center;">图1.8</div></td>
-       </table>
-&emsp;&emsp;2.图片上传：在图像识别区域输入实际车牌号、选择实际车牌颜色，点击拍摄车辆照片，再点击界面【提交图片数据】按钮，如图 1-9所示
-
-<p>&emsp;&emsp;3.图片上传完成之后：在【入口信息】区域内，请选择相应的车型，车种进行核对。如图 1-10所示</p>
-<table>
-  <td><img src="/pub-images/laneEtc-4.jpg"  width="60%" /><div style="text-align:center;">图1.9</div></td>
-  <td><img src="/pub-images/laneEtc-5.jpg"  width="60%" /><div style="text-align:center;">图1.10</div></td>
-   </table>
-&emsp;&emsp;4.入口算费：在入口信息填写区域，选择实际入口车型、车种，再点击下方【算费】按钮，算费成功后在收费信息区域显示金额。
-
-<p>&emsp;&emsp;5.数据上传：算费成功后，将手持机放置 ETC卡签旁，再点击界面下方【提交数据】按钮，上传 ETC入口数据，如图  1-12所示，同时向卡签内写入车辆入口信息。</p>
-<table>
-  <td><img src="/pub-images/laneEtc-6.jpg"  width="60%" /><div style="text-align:center;">图1.11</div></td>
-   </table>
-
-<div style="font-weight:bold;">注意：不操作 ETC入口联动功能时，请返回至【ETC联动】主界面。</div>
-
-<h1 id="ETC入口：货车操作（ETC入口货车操作具体流程）"><a href="#ETC入口：货车操作（ETC入口货车操作具体流程）" class="headerlink" title="ETC入口：货车操作（ETC入口货车操作具体流程）"></a>ETC入口：货车操作（ETC入口货车操作具体流程）</h1><p>&emsp;&emsp;【选择车道】—【ETC联动】—【读卡】—【选择车型】—【选择车种】—【核对车牌号】—【选择颜色】—【拍摄照片】—【提交图片数据】—【计重信息】—【算费】—【提交数据】</p>
-<div style="font-weight:bold;">&emsp;&emsp;ETC入口货车操作步骤如下：</div>
-
-<p>&emsp;&emsp;1）读卡签：同客车操作;<br>&emsp;&emsp;2）提交图片数据：同客车操作;<br>&emsp;&emsp;3）获取计重信息：图片上传成功后，货车会显示如图 1-13所示界面，点击【计重信息】按钮，自动获取称重数据，信息获取成功后请务必核对车轴数，车轴数必须与车型相符（即货一、货二为 2轴、货三、货四、货五、货六依次为   3、4、5、6轴），若获取到的轴数不符，则手动修改；<br>&emsp;&emsp;4）入口算费：计重信息获取成功后，如图 1-14所示，点击下方【算费】按钮，算费成功后在收费信息区域显示金额，同客车操作；<br>&emsp;&emsp;5）数据上传：同客车操作。</p>
-<table>
-  <td><img src="/pub-images/laneEtcVan-1.jpg"  width="60%" /><div style="text-align:center;">图1.13</div></td>
-  <td><img src="/pub-images/laneEtcVan-2.jpg"  width="60%" /><div style="text-align:center;">图1.14</div></td>
-   </table>
-]]></content>
-  </entry>
-  <entry>
     <title>ETC出口联动收费</title>
     <url>/2020/09/05/etcExitLinkage/</url>
     <content><![CDATA[<h1 id="ETC出口联动"><a href="#ETC出口联动" class="headerlink" title="ETC出口联动"></a>ETC出口联动</h1><p>&emsp;&emsp;登录成功，进入如图 1-6所示的系统主页面，系统首页为  ETC联动操作页面。<br>&emsp;&emsp;前提：已在系统配置中启用出口车道。<br>&emsp;&emsp;使用场景：客户车辆由出口 ETC车道或混合车道驶入、且安装成套卡签、标签未拆卸时。</p>
@@ -247,6 +247,34 @@
         <td><img src="/pub-images/laneEtcPassengerVar-1.jpg"  width="60%" /><div style="text-align:center;">图1-30</div></td>
          <td><img src="/pub-images/laneEtcPassengerVar-2.jpg"  width="60%" /><div style="text-align:center;">图1-31</div></td>
        </table>
+]]></content>
+  </entry>
+  <entry>
+    <title>登录操作具体操作流程</title>
+    <url>/2020/09/15/laneLoginOperation/</url>
+    <content><![CDATA[<h1 id="登录配置"><a href="#登录配置" class="headerlink" title="登录配置"></a>登录配置</h1><p>&emsp;&emsp;车道登陆配置（系统配置）是办理车道收费系统的第一步，主要是配置各个收费站的站号（唯一的）。点击车道收费手持终端桌面 LanePad APP，进入系统登录界面，请点开登录页面下面的【系统配置】，进入权限验证界面，如图 1-1所示；<br>&emsp;&emsp;输入管理员账号 admin、密码 gsunis，点击【登录】，权限验证通过，进入如图 1-2所示的手持机配置界面；</p>
+<table>
+  <td><img src="/pub-images/lanelogin-1.jpg"  width="60%" /><div style="text-align:center;">图1.1</div></td>
+  <td><img src="/pub-images/lanelogin-2.jpg"  width="60%" /><div style="text-align:center;">图1.2</div></td>
+   </table> 
+<div style="font-weight:bold;">&emsp;&emsp;基本信息配置</div>
+&emsp;&emsp;1. 点击配置界面【基本信息配置】，进入如图 1-3所示页面，默认已显示网号、联动车道号、工号前缀为 6201，手动配置当前手持机所属旧站号，再点击左上角【保存】按钮，完成基本信息配置。如图 1-3所示
+<table>
+  <td><img src="/pub-images/lanelogin-3.jpg"  width="30%" /><div style="text-align:center;">图1.3</div></td>
+   </table> 
+<div style="font-weight:bold;">&emsp;&emsp;出入口功能配置</div>
+&emsp;&emsp;2. 点击配置界面【出入口功能配置】，进入如图 1-4-1所示页面，默认已配置为收费站出口车道，若要启用收费站入口车道，则点击红色区域按钮，启用成功.后样式如图 1-4-2所示。
+<table>
+  <td><img src="/pub-images/lanelogin-4.jpg"  width="60%" /><div style="text-align:center;">1-4-1</div></td>
+   </table> 
+
+<h1 id="系统登录"><a href="#系统登录" class="headerlink" title="系统登录"></a>系统登录</h1><p>&emsp;&emsp;点击车道收费手持终端 LanePad APP，进入系统登录界面，如图 1-5所示，输入操作员工号、输入密码，选择工作日期（默认为当天）、选择班次，点击【登录】按钮；<br>&emsp;&emsp;登录时需注意：输入的操作员工号必须为当前已配置的站号、已启用的入口或出口车道所在工号。</p>
+<table>
+  <td><img src="/pub-images/lanelogin-5.jpg"  width="30%" /><div style="text-align:center;">1-5</div></td>
+   </table> 
+
+
+
 ]]></content>
   </entry>
   <entry>
@@ -297,34 +325,6 @@
 <table>
   <td><img src="/pub-images/laneLogin.png"  width="30%" /><div style="text-align:center;">图1-57</div></td>
    </table>
-]]></content>
-  </entry>
-  <entry>
-    <title>登录操作具体操作流程</title>
-    <url>/2020/09/15/laneLoginOperation/</url>
-    <content><![CDATA[<h1 id="登录配置"><a href="#登录配置" class="headerlink" title="登录配置"></a>登录配置</h1><p>&emsp;&emsp;车道登陆配置（系统配置）是办理车道收费系统的第一步，主要是配置各个收费站的站号（唯一的）。点击车道收费手持终端桌面 LanePad APP，进入系统登录界面，请点开登录页面下面的【系统配置】，进入权限验证界面，如图 1-1所示；<br>&emsp;&emsp;输入管理员账号 admin、密码 gsunis，点击【登录】，权限验证通过，进入如图 1-2所示的手持机配置界面；</p>
-<table>
-  <td><img src="/pub-images/lanelogin-1.jpg"  width="60%" /><div style="text-align:center;">图1.1</div></td>
-  <td><img src="/pub-images/lanelogin-2.jpg"  width="60%" /><div style="text-align:center;">图1.2</div></td>
-   </table> 
-<div style="font-weight:bold;">&emsp;&emsp;基本信息配置</div>
-&emsp;&emsp;1. 点击配置界面【基本信息配置】，进入如图 1-3所示页面，默认已显示网号、联动车道号、工号前缀为 6201，手动配置当前手持机所属旧站号，再点击左上角【保存】按钮，完成基本信息配置。如图 1-3所示
-<table>
-  <td><img src="/pub-images/lanelogin-3.jpg"  width="30%" /><div style="text-align:center;">图1.3</div></td>
-   </table> 
-<div style="font-weight:bold;">&emsp;&emsp;出入口功能配置</div>
-&emsp;&emsp;2. 点击配置界面【出入口功能配置】，进入如图 1-4-1所示页面，默认已配置为收费站出口车道，若要启用收费站入口车道，则点击红色区域按钮，启用成功.后样式如图 1-4-2所示。
-<table>
-  <td><img src="/pub-images/lanelogin-4.jpg"  width="60%" /><div style="text-align:center;">1-4-1</div></td>
-   </table> 
-
-<h1 id="系统登录"><a href="#系统登录" class="headerlink" title="系统登录"></a>系统登录</h1><p>&emsp;&emsp;点击车道收费手持终端 LanePad APP，进入系统登录界面，如图 1-5所示，输入操作员工号、输入密码，选择工作日期（默认为当天）、选择班次，点击【登录】按钮；<br>&emsp;&emsp;登录时需注意：输入的操作员工号必须为当前已配置的站号、已启用的入口或出口车道所在工号。</p>
-<table>
-  <td><img src="/pub-images/lanelogin-5.jpg"  width="30%" /><div style="text-align:center;">1-5</div></td>
-   </table> 
-
-
-
 ]]></content>
   </entry>
 </search>
