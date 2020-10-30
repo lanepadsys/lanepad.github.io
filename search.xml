@@ -39,6 +39,11 @@
 
 <p>&emsp;&emsp;1 .读 CPC卡：同客车操作；<br>&emsp;&emsp;2 .提交图片数据：同客车操作；<br>&emsp;&emsp;3 .获取计重信息：图片上传成功后，货车会显示如图 1-22所示界面，点击【计重信息】按钮，自动获取称重数据，信息获取成功后请务必核对车轴数，车轴数必须与车型相符（即货一、货二为 2轴、货三、货四、货五、货六依次为   3、4、5、6轴），若获取到的轴数不符，则手动修改；<br>&emsp;&emsp;4 .入口算费：计重信息获取成功后，如图 1-23所示，再点击下方【算费】按钮，算费成功后在收费信息区域显示金额，同客车操作；<br>&emsp;&emsp;5 .数据上传：同客车操作。<br> <table><br>   <td><img src="/pub-images/laneCpcVar-1.jpg"  width="60%" /><div style="text-align:center;">图1-22</div></td><br>   <td><img src="/pub-images/laneCpcVar-2.jpg"  width="60%" /><div style="text-align:center;">图1-23</div></td><br>    </table></p>
 ]]></content>
+      <tags>
+        <tag>jQuery</tag>
+        <tag>表格</tag>
+        <tag>表单验证</tag>
+      </tags>
   </entry>
   <entry>
     <title>CPC出口联动收费</title>
