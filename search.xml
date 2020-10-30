@@ -244,19 +244,40 @@
 <div style="font-weight:bold;">注意：不操作 ETC出口联动功能时，请返回至【ETC联动】主界面。</div>]]></content>
   </entry>
   <entry>
-    <title>车道维护条目</title>
-    <url>/2020/10/12/laneMaintenanceEntry/</url>
-    <content><![CDATA[<h1 id="全程全部功能步骤说明"><a href="#全程全部功能步骤说明" class="headerlink" title="全程全部功能步骤说明"></a>全程全部功能步骤说明</h1><ol>
-<li>登录</li>
-<li>登录配置</li>
-<li>系统登录</li>
-<li>流水查询</li>
-<li>ETC出口联动（客车或货车）</li>
-<li>ETC入口联动（客车或货车）</li>
-<li>CPC出口联动（无入口信息操作）</li>
-<li>CPC入口联动（客车或货车）</li>
-</ol>
-]]></content>
+    <title>开放式出口：ETC(无卡交易)</title>
+    <url>/2020/10/23/etcNoCardTransactions/</url>
+    <content><![CDATA[<h1 id="开放式ETC出口联动-无卡交易"><a href="#开放式ETC出口联动-无卡交易" class="headerlink" title="开放式ETC出口联动(无卡交易)"></a>开放式ETC出口联动(无卡交易)</h1><p>&emsp;&emsp;登录成功，进入如图 1-6所示的系统主页面，系统首页为  ETC无卡交易操作页面。<br>&emsp;&emsp;前提：已在系统配置中启用出口车道。<br>&emsp;&emsp;使用场景：客户车辆由出口ETC车道或混合车道驶入、且安装成套卡签、标签未拆卸时。</p>
+<table>
+  <td><img src="/pub-images/laneNoCard0.png"  width="30%" /><div style="text-align:center;">图1.6</div></td>
+   </table>
+<div style="font-weight:bold;">&emsp;&emsp;ETC出口：客车操作</div>
+&emsp;&emsp;【选择车道】—【ETC无卡交易】—【选择车型】—【选择车种】—【输入车牌号】—【选择颜色】—【拍摄照片】—【提交图片数据】—【算费】—【提交数据】
+
+<h1 id="开放式ETC出口联动-无卡交易-1"><a href="#开放式ETC出口联动-无卡交易-1" class="headerlink" title="开放式ETC出口联动(无卡交易)"></a>开放式ETC出口联动(无卡交易)</h1><p>&emsp;&emsp;在系统首页 ETC页面，选择联动的车道，再点击屏幕中央【ETC联动无卡交易】按钮，进入 ETC出口联动无卡交易界面，如图1-7所示，ETC出口联动操作步骤如下：</p>
+ <table>
+   <td><img src="/pub-images/laneNoCard1.png"  width="30%" /><div style="text-align:center;">图1.7</div></td>
+    </table>
+&emsp;&emsp;1.无卡交易，在【出口信息】选择如图 1-8所示；
+ <table>
+ <td><img src="/pub-images/laneNoCard1.png"  width="60%" /><div style="text-align:center;">图1.7</div></td>
+ <td><img src="/pub-images/laneNoCard2.png"  width="60%" /><div style="text-align:center;">图1.8</div></td>
+       </table>
+&emsp;&emsp;2.图片上传：在图像识别区域输入实际车牌号、选择实际车牌颜色，点击拍摄车辆照片，再点击界面【提交图片数据】按钮，如图 1-9所示
+
+<p>&emsp;&emsp;3.图片上传完成之后：在【出口信息】区域内，请选择相应的车型，车种进行核对。如图 1-10所示</p>
+<table>
+  <td><img src="/pub-images/laneCpc4.png"  width="60%" /><div style="text-align:center;">图1.9</div></td>
+  <td><img src="/pub-images/laneCpc5.png"  width="60%" /><div style="text-align:center;">图1.10</div></td>
+   </table>
+&emsp;&emsp;4.出口算费：在出口信息填写区域，选择实际出口车型、车种，再点击下方【算费】按钮，算费成功后在收费信息区域显示金额。
+
+<p>&emsp;&emsp;5.数据上传：算费成功后，将手持机放置 ETC卡签旁，再点击界面下方【提交数据】按钮，上传 ETC出口数据，如图  1-12所示，同时向卡签内写入车辆出口信息。</p>
+<table>
+  <td><img src="/pub-images/laneCpc7.png"  width="60%" /><div style="text-align:center;">图1.11</div></td>
+   <td><img src="/pub-images/laneCpc8.png"  width="60%" /><div style="text-align:center;">图1.10</div></td>
+   </table>
+
+<div style="font-weight:bold;">注意：不操作 ETC出口联动功能时，请返回至【ETC联动】主界面。</div>]]></content>
   </entry>
   <entry>
     <title>登录操作具体操作流程</title>
@@ -284,6 +305,33 @@
 
 
 
+]]></content>
+  </entry>
+  <entry>
+    <title>车道维护条目</title>
+    <url>/2020/10/12/laneMaintenanceEntry/</url>
+    <content><![CDATA[<h1 id="全程全部功能步骤说明"><a href="#全程全部功能步骤说明" class="headerlink" title="全程全部功能步骤说明"></a>全程全部功能步骤说明</h1><ol>
+<li>登录</li>
+<li>登录配置</li>
+<li>系统登录</li>
+<li>流水查询</li>
+<li>ETC出口联动（客车或货车）</li>
+<li>ETC入口联动（客车或货车）</li>
+<li>CPC出口联动（无入口信息操作）</li>
+<li>CPC入口联动（客车或货车）</li>
+</ol>
+]]></content>
+  </entry>
+  <entry>
+    <title>高速公路车道手持便携式收费系统</title>
+    <url>/2020/09/27/lanePad/</url>
+    <content><![CDATA[<h1 id="背景"><a href="#背景" class="headerlink" title="背景"></a>背景</h1><p>&emsp;&emsp;目前高速公路收费仍然需要车辆停车取卡、交卡、缴费、等待票据等，容易造成缴费拥堵，严重影响通行能力，同时也带来了一系列的交通安全隐患。高速公路实行全 ETC通道已经是时代发展的潮流，实现迅速收费或解决无人值守情况下设备故障的问题，需要应急收费系统。收费站的设施建设没有赶上日益增长的交通运输的需求，与现今经济形势对于服务和效率的标准不相适。车辆拥堵过程中产生的废气，占用的车道时长等。</p>
+<img src="/pub-images/lane-1.jpg" width="100%" height="480px" alt=""/>
+
+<p>&emsp;&emsp;近年来随着通信技术的推广应用，我们开启了全新的思维模式，可以通过更加智能的手段，完成我们工作生活中一些难以处理的细节难题。从实际角度出发，智能的设备应用在很大程度上开阔了行业的发展未来，在大幅度缩小人力物力成本开支的同时，还可以数倍数十倍的提升现阶段效率，开启了当之无愧的智能时代。</p>
+<p>&emsp;&emsp;交通作业高速公路车道手持便携式收费系统相对于传统的收费站系统设备相比，交通作业高速公路车道手持便携式收费系统更先进，可直接通过无线网络和PC，服务器进行实时数据通讯，其通讯数据实时性强，效率高。</p>
+<h1 id="理论价值"><a href="#理论价值" class="headerlink" title="理论价值"></a>理论价值</h1><p>&emsp;&emsp;随着我国交通基础设施建设的快速发展，国人的汽车保有量突飞猛进，交通流量与日俱增，交通拥堵，交通收费问题已是摆在我们面前的一项重要任务。随着互联网+的发展，智慧交通让人们的日常出行更高效，便携。为解决高速公路系统施工线繁琐，维护环节多，维护成本高，低效率等问题，融入手持机物联网的概念和技术，提出基于手持机物联网的高速公路一体化手持机车道控制终端系统设计。高速公路一体化手持机车道控制终端系统以高可靠性及高效率无线点对点的方式控制现在收费站车道外设设备，有效避免了车辆拥堵，降低了高速公路车辆拥堵的情况，提高了车辆通行的效率，推进了高速公路收费系统技术发展，为道路运营及公众出行提供了更智能化的服务，有利于促进交通作业向智能化方向发展。</p>
+<h1 id="社会价值"><a href="#社会价值" class="headerlink" title="社会价值"></a>社会价值</h1><p>&emsp;&emsp;通过交通作业高速公路车道手持便携式收费系统的研究能大幅度提高我国交通作业的科技水平，有效的解决车辆在高速公路的拥堵情况，并且，能在收费站快速的疏通车辆，为交通作业人员减轻极大的压力，以避免严重的交通事故的发生，有利于解决一系列公共交通问题，有利于提高交通部门的决策水平，服务效率，产生巨大的社会价值，促进社会和谐稳定发展。</p>
 ]]></content>
   </entry>
   <entry>
@@ -323,53 +371,5 @@
   <td><img src="/pub-images/laneLogin.png"  width="30%" /><div style="text-align:center;">图1-57</div></td>
    </table>
 ]]></content>
-  </entry>
-  <entry>
-    <title>高速公路车道手持便携式收费系统</title>
-    <url>/2020/09/27/lanePad/</url>
-    <content><![CDATA[<h1 id="背景"><a href="#背景" class="headerlink" title="背景"></a>背景</h1><p>&emsp;&emsp;目前高速公路收费仍然需要车辆停车取卡、交卡、缴费、等待票据等，容易造成缴费拥堵，严重影响通行能力，同时也带来了一系列的交通安全隐患。高速公路实行全 ETC通道已经是时代发展的潮流，实现迅速收费或解决无人值守情况下设备故障的问题，需要应急收费系统。收费站的设施建设没有赶上日益增长的交通运输的需求，与现今经济形势对于服务和效率的标准不相适。车辆拥堵过程中产生的废气，占用的车道时长等。</p>
-<img src="/pub-images/lane-1.jpg" width="100%" height="480px" alt=""/>
-
-<p>&emsp;&emsp;近年来随着通信技术的推广应用，我们开启了全新的思维模式，可以通过更加智能的手段，完成我们工作生活中一些难以处理的细节难题。从实际角度出发，智能的设备应用在很大程度上开阔了行业的发展未来，在大幅度缩小人力物力成本开支的同时，还可以数倍数十倍的提升现阶段效率，开启了当之无愧的智能时代。</p>
-<p>&emsp;&emsp;交通作业高速公路车道手持便携式收费系统相对于传统的收费站系统设备相比，交通作业高速公路车道手持便携式收费系统更先进，可直接通过无线网络和PC，服务器进行实时数据通讯，其通讯数据实时性强，效率高。</p>
-<h1 id="理论价值"><a href="#理论价值" class="headerlink" title="理论价值"></a>理论价值</h1><p>&emsp;&emsp;随着我国交通基础设施建设的快速发展，国人的汽车保有量突飞猛进，交通流量与日俱增，交通拥堵，交通收费问题已是摆在我们面前的一项重要任务。随着互联网+的发展，智慧交通让人们的日常出行更高效，便携。为解决高速公路系统施工线繁琐，维护环节多，维护成本高，低效率等问题，融入手持机物联网的概念和技术，提出基于手持机物联网的高速公路一体化手持机车道控制终端系统设计。高速公路一体化手持机车道控制终端系统以高可靠性及高效率无线点对点的方式控制现在收费站车道外设设备，有效避免了车辆拥堵，降低了高速公路车辆拥堵的情况，提高了车辆通行的效率，推进了高速公路收费系统技术发展，为道路运营及公众出行提供了更智能化的服务，有利于促进交通作业向智能化方向发展。</p>
-<h1 id="社会价值"><a href="#社会价值" class="headerlink" title="社会价值"></a>社会价值</h1><p>&emsp;&emsp;通过交通作业高速公路车道手持便携式收费系统的研究能大幅度提高我国交通作业的科技水平，有效的解决车辆在高速公路的拥堵情况，并且，能在收费站快速的疏通车辆，为交通作业人员减轻极大的压力，以避免严重的交通事故的发生，有利于解决一系列公共交通问题，有利于提高交通部门的决策水平，服务效率，产生巨大的社会价值，促进社会和谐稳定发展。</p>
-]]></content>
-  </entry>
-  <entry>
-    <title>开放式出口：ETC(无卡交易)</title>
-    <url>/2020/10/23/etcNoCardTransactions/</url>
-    <content><![CDATA[<h1 id="开放式ETC出口联动-无卡交易"><a href="#开放式ETC出口联动-无卡交易" class="headerlink" title="开放式ETC出口联动(无卡交易)"></a>开放式ETC出口联动(无卡交易)</h1><p>&emsp;&emsp;登录成功，进入如图 1-6所示的系统主页面，系统首页为  ETC无卡交易操作页面。<br>&emsp;&emsp;前提：已在系统配置中启用出口车道。<br>&emsp;&emsp;使用场景：客户车辆由出口ETC车道或混合车道驶入、且安装成套卡签、标签未拆卸时。</p>
-<table>
-  <td><img src="/pub-images/laneNoCard0.png"  width="30%" /><div style="text-align:center;">图1.6</div></td>
-   </table>
-<div style="font-weight:bold;">&emsp;&emsp;ETC出口：客车操作</div>
-&emsp;&emsp;【选择车道】—【ETC无卡交易】—【选择车型】—【选择车种】—【输入车牌号】—【选择颜色】—【拍摄照片】—【提交图片数据】—【算费】—【提交数据】
-
-<h1 id="开放式ETC出口联动-无卡交易-1"><a href="#开放式ETC出口联动-无卡交易-1" class="headerlink" title="开放式ETC出口联动(无卡交易)"></a>开放式ETC出口联动(无卡交易)</h1><p>&emsp;&emsp;在系统首页 ETC页面，选择联动的车道，再点击屏幕中央【ETC联动无卡交易】按钮，进入 ETC出口联动无卡交易界面，如图1-7所示，ETC出口联动操作步骤如下：</p>
- <table>
-   <td><img src="/pub-images/laneNoCard1.png"  width="30%" /><div style="text-align:center;">图1.7</div></td>
-    </table>
-&emsp;&emsp;1.无卡交易，在【出口信息】选择如图 1-8所示；
- <table>
- <td><img src="/pub-images/laneNoCard1.png"  width="60%" /><div style="text-align:center;">图1.7</div></td>
- <td><img src="/pub-images/laneNoCard2.png"  width="60%" /><div style="text-align:center;">图1.8</div></td>
-       </table>
-&emsp;&emsp;2.图片上传：在图像识别区域输入实际车牌号、选择实际车牌颜色，点击拍摄车辆照片，再点击界面【提交图片数据】按钮，如图 1-9所示
-
-<p>&emsp;&emsp;3.图片上传完成之后：在【出口信息】区域内，请选择相应的车型，车种进行核对。如图 1-10所示</p>
-<table>
-  <td><img src="/pub-images/laneCpc4.png"  width="60%" /><div style="text-align:center;">图1.9</div></td>
-  <td><img src="/pub-images/laneCpc5.png"  width="60%" /><div style="text-align:center;">图1.10</div></td>
-   </table>
-&emsp;&emsp;4.出口算费：在出口信息填写区域，选择实际出口车型、车种，再点击下方【算费】按钮，算费成功后在收费信息区域显示金额。
-
-<p>&emsp;&emsp;5.数据上传：算费成功后，将手持机放置 ETC卡签旁，再点击界面下方【提交数据】按钮，上传 ETC出口数据，如图  1-12所示，同时向卡签内写入车辆出口信息。</p>
-<table>
-  <td><img src="/pub-images/laneCpc7.png"  width="60%" /><div style="text-align:center;">图1.11</div></td>
-   <td><img src="/pub-images/laneCpc8.png"  width="60%" /><div style="text-align:center;">图1.10</div></td>
-   </table>
-
-<div style="font-weight:bold;">注意：不操作 ETC出口联动功能时，请返回至【ETC联动】主界面。</div>]]></content>
   </entry>
 </search>
