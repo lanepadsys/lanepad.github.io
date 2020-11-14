@@ -399,6 +399,52 @@
       </tags>
   </entry>
   <entry>
+    <title>车道手持(流水查询)</title>
+    <url>/2020/11/09/laneFlowQuery/</url>
+    <content><![CDATA[<h1 id="车道流水查询-ETC卡查询"><a href="#车道流水查询-ETC卡查询" class="headerlink" title="车道流水查询(ETC卡查询)"></a>车道流水查询(ETC卡查询)</h1><div style="font-weight:bold;">&emsp;&emsp;点击系统主页面下方记录按钮，切换至查询流水页面，如图1-15所示；</div>
+<div style="font-weight:bold;">&emsp;&emsp;前提：已在系统配置中启用出入口车道</div>
+<div style="font-weight:bold;">&emsp;&emsp;使用场景：客户车辆由入口 ETC/MTC混合车道驶入、驶出，拿到CPC卡或ETC的通行缴费记录。</div>
+<table>
+  <td><img src= "/img/loading.gif" data-lazy-src="/pub-images/laneFlowQuery1.png"  width="30%" /><div style="text-align:center;">图1-15</div></td>
+   </table>
+
+<div style="font-weight:bold;">&emsp;&emsp;ETC出口流水查询</div>
+&emsp;&emsp;【车牌】-【车牌颜色】-【日期】-【班次】-【通行介质类型】-【查询】
+
+<h1 id="车道流水查询-ETC卡出口具体查询"><a href="#车道流水查询-ETC卡出口具体查询" class="headerlink" title="车道流水查询(ETC卡出口具体查询)"></a>车道流水查询(ETC卡出口具体查询)</h1><p>&emsp;&emsp;收费人员查询流水，请输入车牌号码，选择车牌颜色，通行时间，收费人员上班的班次，选择通行介质类型，点击【查询】按钮，出现ETC出口流水记录表。如图1-16所示；</p>
+<table>
+  <td><img src= "/img/loading.gif" data-lazy-src="/pub-images/laneFlowQuery2.png"  width="30%" /><div style="text-align:center;">图1-16</div></td>
+   </table>
+
+<p>&emsp;&emsp; 点击已查询的流水记录表，进入详情界面。出现收费金额，车牌和车牌颜色，车型，车种，收费时间，班次，车道，收费人员编号，收费单号。请收费人员仔细核对出现的信息是否正常。如图1-17所示；</p>
+<table>
+  <td><img src= "/img/loading.gif" data-lazy-src="/pub-images/laneFlowQuery3.png"  width="30%" /><div style="text-align:center;">图1-17</div></td>
+   </table>
+
+
+<h1 id="车道流水查询-CPC卡查询"><a href="#车道流水查询-CPC卡查询" class="headerlink" title="车道流水查询(CPC卡查询)"></a>车道流水查询(CPC卡查询)</h1><div style="font-weight:bold;">&emsp;&emsp;点击系统主页面下方记录按钮，切换至查询流水页面，如图1-15所示；</div>
+<div style="font-weight:bold;">&emsp;&emsp;前提：已在系统配置中启用出入口车道</div>
+<div style="font-weight:bold;">&emsp;&emsp;使用场景：客户车辆由入口 ETC/MTC混合车道驶入、驶出，拿到CPC卡或ETC的通行缴费记录。</div>
+<table>
+  <td><img src= "/img/loading.gif" data-lazy-src="/pub-images/laneFlowQuery4.png"  width="30%" /><div style="text-align:center;">图1-15</div></td>
+   </table>
+
+<div style="font-weight:bold;">&emsp;&emsp;ETC出口流水查询</div>
+&emsp;&emsp;【车牌】-【车牌颜色】-【日期】-【班次】-【通行介质类型】-【查询】
+
+
+<h1 id="车道流水查询-CPC卡出口具体查询"><a href="#车道流水查询-CPC卡出口具体查询" class="headerlink" title="车道流水查询(CPC卡出口具体查询)"></a>车道流水查询(CPC卡出口具体查询)</h1><p>&emsp;&emsp;收费人员查询流水，请输入车牌号码，选择车牌颜色，通行时间，收费人员上班的班次，选择通行介质类型，点击【查询】按钮，出现CPC出口流水记录表。如图1-16所示；</p>
+<table>
+  <td><img src= "/img/loading.gif" data-lazy-src="/pub-images/laneFlowQuery5.png"  width="30%" /><div style="text-align:center;">图1-16</div></td>
+   </table>
+
+<p>&emsp;&emsp; 点击已查询的流水记录表，进入详情界面。出现收费金额，车牌和车牌颜色，车型，车种，收费时间，班次，车道，收费人员编号，收费单号。请收费人员仔细核对出现的信息是否正常。如图1-17所示；</p>
+<table>
+  <td><img src= "/img/loading.gif" data-lazy-src="/pub-images/laneFlowQuery6.png"  width="30%" /><div style="text-align:center;">图1-17</div></td>
+   </table>
+]]></content>
+  </entry>
+  <entry>
     <title>登录操作具体操作流程</title>
     <url>/2020/09/15/laneLoginOperation/</url>
     <content><![CDATA[<h1 id="登录配置"><a href="#登录配置" class="headerlink" title="登录配置"></a>登录配置</h1><p>&emsp;&emsp;车道登陆配置（系统配置）是办理车道收费系统的第一步，主要是配置各个收费站的站号（唯一的）。点击车道收费手持终端桌面 LanePad APP，进入系统登录界面，请点开登录页面下面的【系统配置】，进入权限验证界面，如图 1-1所示；<br>&emsp;&emsp;输入管理员账号 admin、密码 gsunis，点击【登录】，权限验证通过，进入如图 1-2所示的手持机配置界面；</p>
@@ -442,7 +488,7 @@
 <p><a href="http://lanepadsys.github.io/2020/09/07/cpcExitLinkages/">8.封闭式CPC出口：无入口信息</a></p>
 <p><a href="http://lanepadsys.github.io/2020/11/11/EnclosedetcNoCardTransactions/">9.封闭式无卡交易</a></p>
 <p><a href="http://lanepadsys.github.io/2020/11/10/EnclosedetcCardTransactions/">10.封闭式ETC交易</a></p>
-<p><a href="http://lanepadsys.github.io/">11.流水查询</a></p>
+<p><a href="http://lanepadsys.github.io/2020/11/09/laneFlowQuery/">11.流水查询</a></p>
 <p><a href="http://lanepadsys.github.io/2020/09/08/myMmessage/">12.其他功能</a></p>
 <div id="dplayer0" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer0"),"theme":"#FADFA3","loop":true,"video":{"url":"/pub-images/video/升级.mp4"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script>
 
