@@ -1,0 +1,589 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>封闭式出口：ETC卡交易</title>
+    <url>/2020/11/10/EnclosedetcCardTransactions/</url>
+    <content><![CDATA[<h1 id="封闭式ETC出口联动-ETC卡交易"><a href="#封闭式ETC出口联动-ETC卡交易" class="headerlink" title="封闭式ETC出口联动(ETC卡交易)"></a>封闭式ETC出口联动(ETC卡交易)</h1><p>&emsp;&emsp;登录成功，进入如图 1-6所示的系统主页面，系统首页为ETC单卡交易操作页面。<br>&emsp;&emsp;前提：已在系统配置中启用出口车道。<br>&emsp;&emsp;使用场景：客户车辆由出口ETC车道或混合车道驶入、且安装成套卡签、标签未拆卸时。</p>
+<table>
+  <td><img src="/pub-images/EnclosedetcCardTransactions1.png"  width="30%" /><div style="text-align:center;">图1.6</div></td>
+   </table>
+<div style="font-weight:bold;">&emsp;&emsp;ETC出口：客车操作</div>
+&emsp;&emsp;【选择车道】—【ETC单卡交易】—【选择车型】—【选择车种】—【输入车牌号】—【选择颜色】—【拍摄照片】—【提交图片数据】—【算费】—【提交数据】
+
+<h1 id="封闭式ETC出口联动-ETC卡交易-1"><a href="#封闭式ETC出口联动-ETC卡交易-1" class="headerlink" title="封闭式ETC出口联动(ETC卡交易)"></a>封闭式ETC出口联动(ETC卡交易)</h1><p>&emsp;&emsp;在系统首页 ETC页面，选择联动的车道，再点击屏幕中央【ETC联动单卡交易】按钮，进入 ETC出口联动单卡交易界面，如图1-7所示，ETC出口联动操作步骤如下：</p>
+ <table>
+   <td><img src="/pub-images/EnclosedetcCardTransactions1.png"  width="30%" /><div style="text-align:center;">图1.7</div></td>
+    </table>
+&emsp;&emsp;1.读卡签：确认 ETC卡已插入电子标签后点击界面【读卡】按钮，读取ETC卡与电子标签内写入的车辆信息，同时由系统自动校验读取的卡签车辆信息一致性、卡签有效性、状态名单等，卡签信息读取成功且校验通过后显示到界面，且显示图像识别区域，如图 1-8所示； <table>
+ <td><img src="/pub-images/EnclosedetcCardTransactions2.png"  width="60%" /><div style="text-align:center;">图1.8</div></td>
+ <td><img src="/pub-images/EnclosedetcCardTransactions3.png"  width="60%" /><div style="text-align:center;">图1.8</div></td>
+       </table>
+&emsp;&emsp;2.图片上传：在图像识别区域输入实际车牌号、选择实际车牌颜色，点击拍摄车辆照片，再点击界面【提交图片数据】按钮，如图 1-9所示
+
+<p>&emsp;&emsp;3.图片上传完成之后：在【出口信息】-【图像识别】区域内，请选择相应的车型，车种进行核对。如图1-10所示</p>
+<table>
+  <td><img src="/pub-images/EnclosedetcCardTransactions4.png"  width="60%" /><div style="text-align:center;">图1.9</div></td>
+  <td><img src="/pub-images/EnclosedetcCardTransactions5.png"  width="60%" /><div style="text-align:center;">图1.10</div></td>
+   </table>
+&emsp;&emsp;4.出口算费：在出口信息填写区域，选择实际出口车型、车种，再点击下方【算费】按钮，算费成功后在收费信息区域显示金额。
+
+<p>&emsp;&emsp;5.数据上传：算费成功后，将手持机放置 ETC卡签旁，再点击界面下方【提交数据】按钮，上传 ETC出口数据，如图1-12所示，同时向卡签内写入车辆出口信息。</p>
+<table>
+  <td><img src="/pub-images/EnclosedetcCardTransactions6.png"  width="60%" /><div style="text-align:center;">图1-12</div></td>
+  <td><img src="/pub-images/EnclosedetcCardTransactions7.png"  width="60%" /><div style="text-align:center;">图1-12</div></td>
+   </table>
+
+<div style="font-weight:bold;">注意：不操作ETC出口联动功能时，请返回至【ETC联动】主界面。</div>]]></content>
+  </entry>
+  <entry>
+    <title>CPC出口联动收费</title>
+    <url>/2020/09/06/cpcExitLinkage/</url>
+    <content><![CDATA[<h1 id="CPC出口联动收费"><a href="#CPC出口联动收费" class="headerlink" title="CPC出口联动收费"></a>CPC出口联动收费</h1><p>&emsp;&emsp;点击系统主页面下方 ETC右侧按钮，切换至CPC联动操作页面，如图1-15所示；</p>
+<div style="font-weight:bold;">&emsp;&emsp;前提：已在系统配置中启用出口车道</div>
+<div style="font-weight:bold;">&emsp;&emsp;使用场景：客户车辆由入口 ETC/MTC混合车道驶入、未安装成套卡签，需领用CPC卡时。</div>
+<table>
+  <td><img src="/pub-images/laneCpc-1.jpg"  width="25%" /><div style="text-align:center;">图1-15</div></td>
+   </table>
+<div style="font-weight:bold;">&emsp;&emsp;前提：已在系统配置中启用出口车道。</div>
+<div style="font-weight:bold;">&emsp;&emsp;使用场景：客户车辆由出口 ETC/MTC混合车道驶出、且已领用  CPC卡时。</div>
+
+<h1 id="CPC出口联动收费：客车操作"><a href="#CPC出口联动收费：客车操作" class="headerlink" title="CPC出口联动收费：客车操作"></a>CPC出口联动收费：客车操作</h1><div style="font-weight:bold;">&emsp;&emsp;CPC出口：客车操作</div>
+
+<p>&emsp;&emsp;【选择车道】—【CPC联动】—【放置CPC卡】—【读卡】—【选择车型】—【选择车种】—【核对车牌号】—【选择颜色】—【拍摄照片】—【提交图片数据】—【算费】—【选择交易方式】—【提交数据】<br>&emsp;&emsp;点击系统主页面下方 ETC右侧按钮，切换至CPC联动操作页面，如图1-15所示，在该页面选择联动的车道，再点击屏幕中央【CPC联动】按钮，进入CPC出口联动界面，如图 1-32所示</p>
+<table>
+        <td><img src="/pub-images/laneCpcExitPassengerCar-1.jpg"  width="60%" /><div style="text-align:center;">图1-15</div></td>
+         <td><img src="/pub-images/laneCpcExitPassengerCar-2.jpg"  width="60%" /><div style="text-align:center;">图1-32</div></td>
+       </table>
+<div style="font-weight:bold;">&emsp;&emsp;CPC出口联动操作步骤如下：</div>
+
+<p>&emsp;&emsp;1）放置 CPC卡：如图1-32所示，当前界面按钮提示为“请放置 CPC卡”，将 CPC卡放至手持机上方卡片感应区域，CPC卡感应成功后当前界面按钮提示为“读卡”，如图1-33所示；</p>
+<table>
+        <td><img src="/pub-images/laneCpcExitPassengerCar-2.jpg"  width="60%" /><div style="text-align:center;">图1-32</div></td>
+         <td><img src="/pub-images/laneCpcExitPassengerCar-3.jpg"  width="60%" /><div style="text-align:center;">图1-33</div></td>
+       </table>
+&emsp;&emsp;2）读卡：确保 CPC已放至手持机上方，点击界面【读卡】按钮，读卡成功，界面显示 CPC卡卡号、日期、CPC卡入口车型、过站数量等信息，同时显示图像识别区域，如图1-34所示；
+
+<p>&emsp;&emsp;3）图片上传：选择出口实际车型、车种，在图像识别区域核对实际车牌号、选择实际车牌颜色，点击拍摄车头照片，再点击界面【提交图片数据】按钮，如图1-35所示；</p>
+<table>
+        <td><img src="/pub-images/laneCpcExitPassengerCar-4.jpg"  width="60%" /><div style="text-align:center;">图1-34</div></td>
+         <td><img src="/pub-images/laneCpcExitPassengerCar-5.jpg"  width="60%" /><div style="text-align:center;">图1-35</div></td>
+       </table>
+&emsp;&emsp;4）出口算费：图片上传成功后，显示算费按钮，如图 1-36所示，点击【算费】按钮，算费成功后显示消费金额，如图1-37所示；
+
+<p>&emsp;&emsp;5）数据上传：选择交易方式，若选择交易方式为“现金”，则直接点击【提交数据】按钮，上传 CPC卡出口数据，如图1-37所示；同时清除 CPC卡内写入的车辆入口信息。</p>
+<table>
+        <td><img src="/pub-images/laneCpcExitPassengerCar-6.jpg"  width="60%" /><div style="text-align:center;">图1-36</div></td>
+         <td><img src="/pub-images/laneCpcExitPassengerCar-7.jpg"  width="60%" /><div style="text-align:center;">图1-37</div></td>
+       </table>
+
+<div style="font-weight:bold;"> &emsp;&emsp;注意：</div>
+<div style="font-weight:bold;"> &emsp;&emsp;1）CPC出口收费、选择交易方式为  ETC交易时，只能使用与CPC卡内车辆信息一致、且卡类型为储值卡的ETC卡进行消费。</div> 
+<div style="font-weight:bold;"> &emsp;&emsp;2）点击提交数据前，重新放置 CPC卡，听到响一声后，说明CPC卡在感应区域，再点击【提交数据】按钮，避免出现“数据保存失败”的异常。</div> 
+<div style="font-weight:bold;"> &emsp;&emsp;3）不操作CPC出口联动功能时，请返回至【CPC联动】主界面。</div>
+
+<h1 id="CPC出口联动收费：货车操作"><a href="#CPC出口联动收费：货车操作" class="headerlink" title="CPC出口联动收费：货车操作"></a>CPC出口联动收费：货车操作</h1><div style="font-weight:bold;">&emsp;&emsp;CPC出口：货车操作</div>
+&emsp;&emsp;【选择车道】—【CPC联动】—【放置CPC卡】—【读卡】—【选择车型】—【选择车种】—【核对车牌号】—【选择颜色】—【拍摄照片】—【提交图片数据】—【计重信息】—【算费】—【选择交易方式】—【提交数据】
+<div style="font-weight:bold;">&emsp;&emsp;CPC出口货车操作步骤如下：</div>
+
+<p>&emsp;&emsp;1）读 CPC卡：同客车操作；<br>&emsp;&emsp;2）提交图片数据：同客车操作；<br>&emsp;&emsp;3）获取计重信息：图片上传成功后，货车会显示如图 1-38所示界面，点击【计重信息】按钮，自动获取称重数据，信息获取成功后请务必核对车轴数，车轴数必须与车型相符（即货一、货二为 2轴、货三、货四、货五、货六依次为   3、4、5、6轴），若获取到的轴数不符，则手动修改；<br>&emsp;&emsp;4）出口算费：计重信息获取成功后，显示算费按钮，如图1-39所示，点击【算费】按钮，算费成功后显示消费金额，同客车操作；<br>&emsp;&emsp;5）数据上传：同客车操作。</p>
+<table>
+        <td><img src="/pub-images/laneCpcExitPassengerVar-1.jpg"  width="60%" /><div style="text-align:center;">图1-38</div></td>
+       </table>
+
+
+]]></content>
+      <tags>
+        <tag>CPC</tag>
+        <tag>出口</tag>
+        <tag>客车</tag>
+        <tag>货车</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>封闭式CPC出口：无入口信息</title>
+    <url>/2020/09/07/cpcExitLinkages/</url>
+    <content><![CDATA[<h1 id="CPC出口联动收费"><a href="#CPC出口联动收费" class="headerlink" title="CPC出口联动收费"></a>CPC出口联动收费</h1><p>&emsp;&emsp;点击系统主页面下方 ETC右侧按钮，切换至CPC联动操作页面，如图1-15所示；</p>
+<div style="font-weight:bold;">&emsp;&emsp;前提：已在系统配置中启用出口车道</div>
+<div style="font-weight:bold;">&emsp;&emsp;使用场景：客户车辆由入口 ETC/MTC混合车道驶入、未安装成套卡签，需领用CPC卡时。</div>
+<table>
+  <td><img src="/pub-images/laneCpc-1.jpg"  width="30%" /><div style="text-align:center;">图1-15</div></td>
+   </table>
+
+
+  <div style="font-weight:bold;">&emsp;&emsp;前提：已在系统配置中启用出口车道。</div>
+  <div style="font-weight:bold;">&emsp;&emsp;使用场景：客户车辆由出口 ETC/MTC混合车道驶出、且已领用  CPC卡时。</div>
+
+<h1 id="CPC出口：无入口信息操作"><a href="#CPC出口：无入口信息操作" class="headerlink" title="CPC出口：无入口信息操作"></a>CPC出口：无入口信息操作</h1>   <div style="font-weight:bold;">&emsp;&emsp;CPC出口：无入口信息操作</div>
+
+<p>   &emsp;&emsp;【选择车道】—【CPC联动】—【放置CPC卡】—【读卡】—【选择车型】—【选择车种】—【输入车牌号】—【选择颜色】—【拍摄照片】—【提交图片数据】—【算费】—【输入入口站时间】—【选择入口站】—【最短路径计费】—【站长权限校验】—【选择交易方式】—【提交数据】<br>   &emsp;&emsp;点击系统主页面下方 ETC右侧按钮，切换至CPC联动操作页面，如图1-15所示，在该页面选择联动的车道，再点击屏幕中央【CPC联动】按钮，进入CPC出口联动界面，如图 1-32所示</p>
+   <table>
+           <td><img src="/pub-images/laneCpcExitPassengerCar-1.jpg"  width="60%" /><div style="text-align:center;">图1-15</div></td>
+            <td><img src="/pub-images/laneCpcExitPassengerCar-2.jpg"  width="60%" /><div style="text-align:center;">图1-32</div></td>
+          </table>
+   <div style="font-weight:bold;">&emsp;&emsp;CPC卡无入口信息的操作步骤如下：</div>
+
+<p>  &emsp;&emsp;1）读卡：如图 1-32所示，CPC出口联动界面按钮提示为“请放置 CPC卡”，将 CPC卡放至手持机上方卡片感应区域，CPC卡感应成功后当前界面按钮提示为“读卡”，点击【读卡】按钮，弹出系统提示“无入口信息”，如图1-40所示，点击确定按钮，关闭提示，显示如图1-41所示界面；</p>
+<table>
+           <td><img src="/pub-images/laneNoEntryInformation-1.jpg"  width="60%" /><div style="text-align:center;">图1-40</div></td>
+            <td><img src="/pub-images/laneNoEntryInformation-2.jpg"  width="60%" /><div style="text-align:center;">图1-41</div></td>
+          </table>
+  &emsp;&emsp;2）填写出口信息：如图1-42所示，选择出口实际车型、车种，填写实际车牌号、选择车牌颜色，点击拍摄车头照片，再点击【提交图片数据】按钮；图片上传成功后显示算费按钮，如图 1-43所示；
+<table>
+           <td><img src="/pub-images/laneNoEntryInformation-3.jpg"  width="60%" /><div style="text-align:center;">图1-42</div></td>
+            <td><img src="/pub-images/laneNoEntryInformation-4.jpg"  width="60%" /><div style="text-align:center;">图1-43</div></td>
+          </table>
+  &emsp;&emsp;3）出口算费：点击【算费】按钮，弹出如图1-44所示界面，输入入口站时间，时间格式为YYYYMMDDHH，即年月日小时，比如2020051501、2020051520
+
+<p>  &emsp;&emsp; ➢若正确查询出入口站列表，则显示如图1-45所示界面，点击选择查询到的入口站记录，系统自动算费并在界面显示消费金额；</p>
+<table>
+           <td><img src="/pub-images/laneNoEntryInformation-5.jpg"  width="60%" /><div style="text-align:center;">图1-44</div></td>
+            <td><img src="/pub-images/laneNoEntryInformation-6.jpg"  width="60%" /><div style="text-align:center;">图1-45</div></td>
+          </table>
+  &emsp;&emsp;➢若弹出系统提示信息“入口站信息查询失败”，则显示如图1-46所示界面，需要手动输入入口站 hex码，点击【最短路径计费】；
+
+<p>  &emsp;&emsp;➢最短路径计费需要校验站长权限，如图1-47所示，输入当前出口站的站长工号和密码，点击确定，站长权限验证通过后按最短路径计费并在界面显示消费金额；</p>
+<table>
+           <td><img src="/pub-images/laneNoEntryInformation-7.jpg"  width="60%" /><div style="text-align:center;">图1-46</div></td>
+            <td><img src="/pub-images/laneNoEntryInformation-8.jpg"  width="60%" /><div style="text-align:center;">图1-47</div></td>
+          </table>
+
+<p> &emsp;&emsp;4）选择交易方式：算费成功后显示如图 1-48所示界面，选择交易方式；<br>  &emsp;&emsp;5）数据上传：将 CPC卡放置手持机感应区域，再点击【提交数据】按钮，上传出口交易数据”。</p>
+<table>
+           <td><img src="/pub-images/laneNoEntryInformation-9.jpg"  width="60%" /><div style="text-align:center;">图1-48</div></td>
+            <td><img src="/pub-images/laneNoEntryInformation-10.jpg"  width="60%" /><div style="text-align:center;">图1-49</div></td>
+          </table>
+
+
+]]></content>
+      <tags>
+        <tag>CPC</tag>
+        <tag>出口</tag>
+        <tag>无入口</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>ETC入口联动收费</title>
+    <url>/2020/09/02/etcEntryLinkage/</url>
+    <content><![CDATA[<h1 id="ETC入口联动"><a href="#ETC入口联动" class="headerlink" title="ETC入口联动"></a>ETC入口联动</h1><p>&emsp;&emsp;登录成功，进入如图 1-6所示的系统主页面，系统首页为  ETC联动操作页面。<br>&emsp;&emsp;前提：已在系统配置中启用入口车道。<br>&emsp;&emsp;使用场景：客户车辆由入口 ETC车道或混合车道驶入、且安装成套卡签、标签未拆卸时。</p>
+<table>
+  <td><img src="/pub-images/laneEtc-1.jpg"  width="30%" /><div style="text-align:center;">图1.6</div></td>
+   </table>
+<div style="font-weight:bold;">&emsp;&emsp;ETC入口：客车操作</div>
+&emsp;&emsp;【选择车道】—【ETC联动】—【读卡】—【选择车型】—【选择车种】—【核对车牌号】—【选择颜色】—【拍摄照片】—【提交图片数据】—【算费】—【提交数据】
+
+<h1 id="ETC入口联动-具体流程"><a href="#ETC入口联动-具体流程" class="headerlink" title="ETC入口联动(具体流程)"></a>ETC入口联动(具体流程)</h1><p>&emsp;&emsp;在系统首页 ETC页面，选择联动的车道，再点击屏幕中央【ETC联动】按钮，进入 ETC入口联动界面，如图  1-7所示，ETC入口联动操作步骤如下：</p>
+   <table>
+        <td><img src="/pub-images/laneEtc-1.jpg"  width="60%" /><div style="text-align:center;">图1.6</div></td>
+        <td><img src="/pub-images/laneEtc-2.jpg"  width="60%" /><div style="text-align:center;">图1.7</div></td>
+       </table>
+&emsp;&emsp;1.读卡签：确认 ETC卡已插入电子标签后点击界面【读卡】按钮，读取ETC卡与电子标签内写入的车辆信息，同时由系统自动校验读取的卡签车辆信息一致性、卡签有效性、状态名单等，卡签信息读取成功且校验通过后显示到界面，且显示图像识别区域，如图 1-8所示；
+ <table>
+ <td><img src="/pub-images/laneEtc-2.jpg"  width="60%" /><div style="text-align:center;">图1.7</div></td>
+ <td><img src="/pub-images/laneEtc-3.jpg"  width="60%" /><div style="text-align:center;">图1.8</div></td>
+       </table>
+&emsp;&emsp;2.图片上传：在图像识别区域输入实际车牌号、选择实际车牌颜色，点击拍摄车辆照片，再点击界面【提交图片数据】按钮，如图 1-9所示
+
+<p>&emsp;&emsp;3.图片上传完成之后：在【入口信息】区域内，请选择相应的车型，车种进行核对。如图 1-10所示</p>
+<table>
+  <td><img src="/pub-images/laneEtc-4.jpg"  width="60%" /><div style="text-align:center;">图1.9</div></td>
+  <td><img src="/pub-images/laneEtc-5.jpg"  width="60%" /><div style="text-align:center;">图1.10</div></td>
+   </table>
+&emsp;&emsp;4.入口算费：在入口信息填写区域，选择实际入口车型、车种，再点击下方【算费】按钮，算费成功后在收费信息区域显示金额。
+
+<p>&emsp;&emsp;5.数据上传：算费成功后，将手持机放置 ETC卡签旁，再点击界面下方【提交数据】按钮，上传 ETC入口数据，如图  1-12所示，同时向卡签内写入车辆入口信息。</p>
+<table>
+  <td><img src="/pub-images/laneEtc-6.jpg"  width="60%" /><div style="text-align:center;">图1.11</div></td>
+   </table>
+
+<div style="font-weight:bold;">注意：不操作 ETC入口联动功能时，请返回至【ETC联动】主界面。</div>
+
+<h1 id="ETC入口：货车操作（ETC入口货车操作具体流程）"><a href="#ETC入口：货车操作（ETC入口货车操作具体流程）" class="headerlink" title="ETC入口：货车操作（ETC入口货车操作具体流程）"></a>ETC入口：货车操作（ETC入口货车操作具体流程）</h1><p>&emsp;&emsp;【选择车道】—【ETC联动】—【读卡】—【选择车型】—【选择车种】—【核对车牌号】—【选择颜色】—【拍摄照片】—【提交图片数据】—【计重信息】—【算费】—【提交数据】</p>
+<div style="font-weight:bold;">&emsp;&emsp;ETC入口货车操作步骤如下：</div>
+
+<p>&emsp;&emsp;1）读卡签：同客车操作;<br>&emsp;&emsp;2）提交图片数据：同客车操作;<br>&emsp;&emsp;3）获取计重信息：图片上传成功后，货车会显示如图 1-13所示界面，点击【计重信息】按钮，自动获取称重数据，信息获取成功后请务必核对车轴数，车轴数必须与车型相符（即货一、货二为 2轴、货三、货四、货五、货六依次为   3、4、5、6轴），若获取到的轴数不符，则手动修改；<br>&emsp;&emsp;4）入口算费：计重信息获取成功后，如图 1-14所示，点击下方【算费】按钮，算费成功后在收费信息区域显示金额，同客车操作；<br>&emsp;&emsp;5）数据上传：同客车操作。</p>
+<table>
+  <td><img src="/pub-images/laneEtcVan-1.jpg"  width="60%" /><div style="text-align:center;">图1.13</div></td>
+  <td><img src="/pub-images/laneEtcVan-2.jpg"  width="60%" /><div style="text-align:center;">图1.14</div></td>
+   </table>
+]]></content>
+      <tags>
+        <tag>客车</tag>
+        <tag>货车</tag>
+        <tag>ETC</tag>
+        <tag>入口</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>CPC入口联动收费</title>
+    <url>/2020/09/03/cpcEntryLinkage/</url>
+    <content><![CDATA[<h1 id="CPC入口联动收费"><a href="#CPC入口联动收费" class="headerlink" title="CPC入口联动收费"></a>CPC入口联动收费</h1><p>&emsp;&emsp;点击系统主页面下方 ETC右侧按钮，切换至CPC联动操作页面，如图1-15所示；</p>
+<div style="font-weight:bold;">&emsp;&emsp;前提：已在系统配置中启用入口车道</div>
+<div style="font-weight:bold;">&emsp;&emsp;使用场景：客户车辆由入口 ETC/MTC混合车道驶入、未安装成套卡签，需领用CPC卡时。</div>
+<table>
+  <td><img src="/pub-images/laneCpc-1.jpg"  width="30%" /><div style="text-align:center;">图1-15</div></td>
+   </table>
+
+<h1 id="CPC入口联动收费：客车操作"><a href="#CPC入口联动收费：客车操作" class="headerlink" title="CPC入口联动收费：客车操作"></a>CPC入口联动收费：客车操作</h1><p>&emsp;&emsp;【选择车道】—【CPC联动】—【放置CPC卡】—【读卡】—【输入车牌号】—【选择颜色】—【选择车型】—【选择车种】—【拍摄照片】—【提交图片数据】—【算费】—【提交数据】</p>
+<p>&emsp;&emsp;在系统第二页 CPC页面，选择联动的车道，再点击屏幕中央【CPC联动】按钮，进入 CPC入口联动界面，如图  1-16所示，CPC入口联动操作步骤如下：<br>&emsp;&emsp;1 .放置 CPC卡：如图  1-16所示；<br>&emsp;&emsp;2 .当前界面按钮提示为“请放置 CPC卡”，将 CPC卡放至手持机上方卡片感应区域，CPC卡感应成功后当前界面按钮提示为“读卡”，如图 1-17所示；</p>
+<table>
+  <td><img src="/pub-images/laneCpcPassengerCar-1.jpg"  width="60%" /><div style="text-align:center;">图1-16</div></td>
+  <td><img src="/pub-images/laneCpcPassengerCar-2.jpg"  width="60%" /><div style="text-align:center;">图1-17</div></td>
+   </table>
+&emsp;&emsp;3 .读卡：确保 CPC已放至手持机上方，点击界面【读卡】按钮，读卡成功，界面显示 CPC卡卡号、日期、电量信息，同时显示图像识别区域，如图1-18所示；
+
+<p>&emsp;&emsp;4 .入口信息：在入口信息填写区域输入实际车牌号、选择实际车牌颜色、车型、车种，点击拍摄车头照片，再点击界面【提交图片数据】按钮，图片上传成功后，界面显示算费按钮，如图1-19所示；</p>
+<table>
+  <td><img src="/pub-images/laneCpcPassengerCar-3.jpg"  width="60%" /><div style="text-align:center;">图1-18</div></td>
+  <td><img src="/pub-images/laneCpcPassengerCar-4.jpg"  width="60%" /><div style="text-align:center;">图1-19</div></td>
+   </table>
+&emsp;&emsp;5 .提交数据：点击图 1-19所示【算费】按钮。
+
+<p>&emsp;&emsp;6 .算费成功后在收费信息区域显示金额，如图 1-20所示；再点击【提交数据】按钮，上传  CPC入口数据，同时向 CPC卡内写入车辆入口信息。</p>
+<table>
+  <td><img src="/pub-images/laneCpcPassengerCar-5.jpg"  width="60%" /><div style="text-align:center;">图1-19</div></td>
+  <td><img src="/pub-images/laneCpcPassengerCar-6.jpg"  width="60%" /><div style="text-align:center;">图1-20</div></td>
+   </table>
+<div style="font-weight:bold;">&emsp;&emsp;注意：</div>
+<div style="font-weight:bold;">&emsp;&emsp;1）点击提交数据前，重新放置 CPC卡，听到响一声后，说明  CPC在感应区域，再点击【提交数据】按钮，避免出现“CPC卡写入口信息失败”的异常。</div>
+<div style="font-weight:bold;">&emsp;&emsp;2）不操作 CPC入口联动功能时，请返回至【CPC联动】主界面。</div>
+
+<h1 id="CPC入口：货车操作（CPC入口客车操作具体流程）"><a href="#CPC入口：货车操作（CPC入口客车操作具体流程）" class="headerlink" title="CPC入口：货车操作（CPC入口客车操作具体流程）"></a>CPC入口：货车操作（CPC入口客车操作具体流程）</h1><p>&emsp;&emsp;选择车道】—【CPC联动】—【放置CPC卡】—【读卡】—【输入车牌号】—【选择颜色】—【选择车型】—【选择车种】—【拍摄照片】—【提交图片数据】—【计重信息】—【算费】—【提交数据】</p>
+<div style="font-weight:bold;">&emsp;&emsp;CPC入口货车操作步骤如下：</div>
+
+<p>&emsp;&emsp;1 .读 CPC卡：同客车操作；<br>&emsp;&emsp;2 .提交图片数据：同客车操作；<br>&emsp;&emsp;3 .获取计重信息：图片上传成功后，货车会显示如图 1-22所示界面，点击【计重信息】按钮，自动获取称重数据，信息获取成功后请务必核对车轴数，车轴数必须与车型相符（即货一、货二为 2轴、货三、货四、货五、货六依次为   3、4、5、6轴），若获取到的轴数不符，则手动修改；<br>&emsp;&emsp;4 .入口算费：计重信息获取成功后，如图 1-23所示，再点击下方【算费】按钮，算费成功后在收费信息区域显示金额，同客车操作；<br>&emsp;&emsp;5 .数据上传：同客车操作。<br> <table><br>   <td><img src="/pub-images/laneCpcVar-1.jpg"  width="60%" /><div style="text-align:center;">图1-22</div></td><br>   <td><img src="/pub-images/laneCpcVar-2.jpg"  width="60%" /><div style="text-align:center;">图1-23</div></td><br>    </table></p>
+]]></content>
+      <tags>
+        <tag>CPC</tag>
+        <tag>客车</tag>
+        <tag>货车</tag>
+        <tag>入口</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>封闭式出口：ETC(无卡交易)</title>
+    <url>/2020/11/11/EnclosedetcNoCardTransactions/</url>
+    <content><![CDATA[<h1 id="封闭式ETC出口联动-单卡交易"><a href="#封闭式ETC出口联动-单卡交易" class="headerlink" title="封闭式ETC出口联动(单卡交易)"></a>封闭式ETC出口联动(单卡交易)</h1><p>&emsp;&emsp;登录成功，进入如图 1-6所示的系统主页面，系统首页为ETC单卡交易操作页面。<br>&emsp;&emsp;前提：已在系统配置中启用出口车道。<br>&emsp;&emsp;使用场景：客户车辆由出口ETC车道或混合车道驶入、且安装成套卡签、标签未拆卸时。</p>
+<table>
+  <td><img src="/pub-images/EnclosedetcNoCardTransactions1.png"  width="30%" /><div style="text-align:center;">图1.6</div></td>
+   </table>
+<div style="font-weight:bold;">&emsp;&emsp;ETC出口：客车操作</div>
+&emsp;&emsp;【选择车道】—【ETC单卡交易】—【选择车型】—【选择车种】—【输入车牌号】—【选择颜色】—【拍摄照片】—【提交图片数据】—【站Hex码】-【站长权限】-【算费】—【提交数据】
+
+<h1 id="封闭式ETC出口联动-单卡交易-1"><a href="#封闭式ETC出口联动-单卡交易-1" class="headerlink" title="封闭式ETC出口联动(单卡交易)"></a>封闭式ETC出口联动(单卡交易)</h1><p>&emsp;&emsp;在系统首页 ETC页面，选择联动的车道，再点击屏幕中央【ETC联动单卡交易】按钮，进入 ETC出口联动单卡交易界面，如图1-7所示，ETC出口联动操作步骤如下：</p>
+ <table>
+   <td><img src="/pub-images/EnclosedetcNoCardTransactions1.png"  width="30%" /><div style="text-align:center;">图1.7</div></td>
+    </table>
+&emsp;&emsp;1.单卡交易.读ETC卡片：确认ETC卡已放入便携机，点击界面【读卡】按钮，读取ETC卡与电子标签内写入的车辆信息，同时由系统自动校验读取的卡签车辆信息一致性、卡签有效性、状态名单等，卡签信息读取成功且校验通过后显示到界面，且显示图像识别区域如图 1-7所示；
+ <table>
+ <td><img src="/pub-images/EnclosedetcNoCardTransactions2.png"  width="60%" /><div style="text-align:center;">图1.7</div></td>
+ <td><img src="/pub-images/EnclosedetcNoCardTransactions3.png"  width="60%" /><div style="text-align:center;">图1.7</div></td>
+       </table>
+&emsp;&emsp;2.图片上传：在图像识别区域输入实际车牌号、选择实际车牌颜色，点击拍摄车辆照片，再点击界面【提交图片数据】按钮，如图 1-9所示
+
+<p>&emsp;&emsp;3.图片上传完成之后：在【出口信息】-【图像识别】区域内，请选择相应的车型，车种进行核对。如图 1-10所示</p>
+<table>
+  <td><img src="/pub-images/EnclosedetcNoCardTransactions4.png"  width="60%" /><div style="text-align:center;">图1.9</div></td>
+  <td><img src="/pub-images/EnclosedetcNoCardTransactions5.png"  width="60%" /><div style="text-align:center;">图1.10</div></td>
+   </table>
+&emsp;&emsp;4.计重信息：点击【计重信息】，出现车货限重，车货总重，车辆轴数，请收费人员认真核对和填写。如图 1-11所示
+
+<table>
+  <td><img src="/pub-images/EnclosedetcNoCardTransactions6.png"  width="30%" /><div style="text-align:center;">图1.11</div></td>
+
+   </table>
+&emsp;&emsp;5.核算费率：点击【算费】按钮之后，出现算费信息，站名，金额，Hex码，请收费人员输入Hex码，方便核对单卡交易。如图1-12所示
+
+<table>
+    <td><img src="/pub-images/EnclosedetcNoCardTransactions7.png"  width="60%" /><div style="text-align:center;">图1.12</div></td>
+    <td><img src="/pub-images/EnclosedetcNoCardTransactions8.png"  width="60%" /><div style="text-align:center;">图1.12</div></td>
+        </table>
+    </table>
+&emsp;&emsp;6.最小费额计费：点击【最小费额计费】按钮之后，出现站长权限验证，收费人员根据自己所在站，输入工号和账号密码，点击【确认】按钮。如图1-13所示
+
+<table>
+    <td><img src="/pub-images/EnclosedetcNoCardTransactions9.png"  width="60%" /><div style="text-align:center;">图1.13</div></td>
+    <td><img src="/pub-images/EnclosedetcNoCardTransactions10.png"  width="60%" /><div style="text-align:center;">图1.13</div></td>
+    </table>
+
+<p>&emsp;&emsp;7.数据保存：根据最小费额计费，出现算费信息。站名，金额，站Hex码，请收费人员核对无误之后，点击【数据保存】按钮，缴费成功。如图1-14所示</p>
+<table>
+    <td><img src="/pub-images/EnclosedetcNoCardTransactions11.png"  width="60%" /><div style="text-align:center;">图1.14</div></td>
+    <td><img src="/pub-images/EnclosedetcNoCardTransactions12.png"  width="60%" /><div style="text-align:center;">图1.14</div></td>
+    </table>
+
+<div style="font-weight:bold;">注意：不操作ETC出口联动功能时，请返回至【ETC联动】主界面。</div>]]></content>
+  </entry>
+  <entry>
+    <title>登录操作具体操作流程</title>
+    <url>/2020/09/15/laneLoginOperation/</url>
+    <content><![CDATA[<h1 id="登录配置"><a href="#登录配置" class="headerlink" title="登录配置"></a>登录配置</h1><p>&emsp;&emsp;车道登陆配置（系统配置）是办理车道收费系统的第一步，主要是配置各个收费站的站号（唯一的）。点击车道收费手持终端桌面 LanePad APP，进入系统登录界面，请点开登录页面下面的【系统配置】，进入权限验证界面，如图 1-1所示；<br>&emsp;&emsp;输入管理员账号 admin、密码 gsunis，点击【登录】，权限验证通过，进入如图 1-2所示的手持机配置界面；</p>
+<table>
+  <td><img src="/pub-images/lanelogin-1.jpg"  width="60%" /><div style="text-align:center;">图1.1</div></td>
+  <td><img src="/pub-images/lanelogin-2.jpg"  width="60%" /><div style="text-align:center;">图1.2</div></td>
+   </table> 
+<div style="font-weight:bold;">&emsp;&emsp;基本信息配置</div>
+&emsp;&emsp;1. 点击配置界面【基本信息配置】，进入如图 1-3所示页面，默认已显示网号、联动车道号、工号前缀为 6201，手动配置当前手持机所属旧站号，再点击左上角【保存】按钮，完成基本信息配置。如图 1-3所示
+<table>
+  <td><img src="/pub-images/lanelogin-3.jpg"  width="30%" /><div style="text-align:center;">图1.3</div></td>
+   </table> 
+<div style="font-weight:bold;">&emsp;&emsp;出入口功能配置</div>
+&emsp;&emsp;2. 点击配置界面【出入口功能配置】，进入如图 1-4-1所示页面，默认已配置为收费站出口车道，若要启用收费站入口车道，则点击红色区域按钮，启用成功.后样式如图 1-4-2所示。
+<table>
+  <td><img src="/pub-images/lanelogin-4.jpg"  width="60%" /><div style="text-align:center;">1-4-1</div></td>
+   </table> 
+
+<h1 id="系统登录"><a href="#系统登录" class="headerlink" title="系统登录"></a>系统登录</h1><p>&emsp;&emsp;点击车道收费手持终端 LanePad APP，进入系统登录界面，如图 1-5所示，输入操作员工号、输入密码，选择工作日期（默认为当天）、选择班次，点击【登录】按钮；<br>&emsp;&emsp;登录时需注意：输入的操作员工号必须为当前已配置的站号、已启用的入口或出口车道所在工号。</p>
+<table>
+  <td><img src="/pub-images/lanelogin-5.jpg"  width="30%" /><div style="text-align:center;">1-5</div></td>
+   </table> 
+
+
+
+]]></content>
+      <tags>
+        <tag>登录</tag>
+        <tag>配置</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>车道手持(流水查询)</title>
+    <url>/2020/11/09/laneFlowQuery/</url>
+    <content><![CDATA[<h1 id="车道流水查询-ETC卡查询"><a href="#车道流水查询-ETC卡查询" class="headerlink" title="车道流水查询(ETC卡查询)"></a>车道流水查询(ETC卡查询)</h1><div style="font-weight:bold;">&emsp;&emsp;点击系统主页面下方记录按钮，切换至查询流水页面，如图1-15所示；</div>
+<div style="font-weight:bold;">&emsp;&emsp;前提：已在系统配置中启用出入口车道</div>
+<div style="font-weight:bold;">&emsp;&emsp;使用场景：客户车辆由入口 ETC/MTC混合车道驶入、驶出，拿到CPC卡或ETC的通行缴费记录。</div>
+<table>
+  <td><img src="/pub-images/laneFlowQuery1.png"  width="30%" /><div style="text-align:center;">图1-15</div></td>
+   </table>
+
+<div style="font-weight:bold;">&emsp;&emsp;ETC出口流水查询</div>
+&emsp;&emsp;【车牌】-【车牌颜色】-【日期】-【班次】-【通行介质类型】-【查询】
+
+<h1 id="车道流水查询-ETC卡出口具体查询"><a href="#车道流水查询-ETC卡出口具体查询" class="headerlink" title="车道流水查询(ETC卡出口具体查询)"></a>车道流水查询(ETC卡出口具体查询)</h1><p>&emsp;&emsp;收费人员查询流水，请输入车牌号码，选择车牌颜色，通行时间，收费人员上班的班次，选择通行介质类型，点击【查询】按钮，出现ETC出口流水记录表。如图1-16所示；</p>
+<table>
+  <td><img src="/pub-images/laneFlowQuery2.png"  width="30%" /><div style="text-align:center;">图1-16</div></td>
+   </table>
+
+<p>&emsp;&emsp; 点击已查询的流水记录表，进入详情界面。出现收费金额，车牌和车牌颜色，车型，车种，收费时间，班次，车道，收费人员编号，收费单号。请收费人员仔细核对出现的信息是否正常。如图1-17所示；</p>
+<table>
+  <td><img src="/pub-images/laneFlowQuery3.png"  width="30%" /><div style="text-align:center;">图1-17</div></td>
+   </table>
+
+
+<h1 id="车道流水查询-CPC卡查询"><a href="#车道流水查询-CPC卡查询" class="headerlink" title="车道流水查询(CPC卡查询)"></a>车道流水查询(CPC卡查询)</h1><div style="font-weight:bold;">&emsp;&emsp;点击系统主页面下方记录按钮，切换至查询流水页面，如图1-15所示；</div>
+<div style="font-weight:bold;">&emsp;&emsp;前提：已在系统配置中启用出入口车道</div>
+<div style="font-weight:bold;">&emsp;&emsp;使用场景：客户车辆由入口 ETC/MTC混合车道驶入、驶出，拿到CPC卡或ETC的通行缴费记录。</div>
+<table>
+  <td><img src="/pub-images/laneFlowQuery4.png"  width="30%" /><div style="text-align:center;">图1-15</div></td>
+   </table>
+
+<div style="font-weight:bold;">&emsp;&emsp;ETC出口流水查询</div>
+&emsp;&emsp;【车牌】-【车牌颜色】-【日期】-【班次】-【通行介质类型】-【查询】
+
+
+<h1 id="车道流水查询-CPC卡出口具体查询"><a href="#车道流水查询-CPC卡出口具体查询" class="headerlink" title="车道流水查询(CPC卡出口具体查询)"></a>车道流水查询(CPC卡出口具体查询)</h1><p>&emsp;&emsp;收费人员查询流水，请输入车牌号码，选择车牌颜色，通行时间，收费人员上班的班次，选择通行介质类型，点击【查询】按钮，出现CPC出口流水记录表。如图1-16所示；</p>
+<table>
+  <td><img src="/pub-images/laneFlowQuery5.png"  width="30%" /><div style="text-align:center;">图1-16</div></td>
+   </table>
+
+<p>&emsp;&emsp; 点击已查询的流水记录表，进入详情界面。出现收费金额，车牌和车牌颜色，车型，车种，收费时间，班次，车道，收费人员编号，收费单号。请收费人员仔细核对出现的信息是否正常。如图1-17所示；</p>
+<table>
+  <td><img src="/pub-images/laneFlowQuery6.png"  width="30%" /><div style="text-align:center;">图1-17</div></td>
+   </table>
+]]></content>
+  </entry>
+  <entry>
+    <title>车道维护条目</title>
+    <url>/2020/10/12/laneMaintenanceEntry/</url>
+    <content><![CDATA[<h1 id="全程全部功能步骤说明"><a href="#全程全部功能步骤说明" class="headerlink" title="全程全部功能步骤说明"></a>全程全部功能步骤说明</h1><p><a href="http://lanepadsys.github.io/2020/09/15/laneLoginOperation/">1.登录</a></p>
+<p><a href="http://lanepadsys.github.io/2020/10/23/etcNoCardTransactions/">2.开放式出口：MTC交易</a></p>
+<p><a href="http://lanepadsys.github.io/2020/10/22/etcExitLinkage/">3.开放式出口：ETC交易</a></p>
+<p><a href="http://lanepadsys.github.io/2020/09/02/etcEntryLinkage/">4.ETC入口联动</a></p>
+<p><a href="http://lanepadsys.github.io/2020/09/03/cpcEntryLinkage/">5.CPC入口联动</a></p>
+<p><a href="http://lanepadsys.github.io/2020/09/06/cpcExitLinkage/">7.CPC出口联动收费</a></p>
+<p><a href="http://lanepadsys.github.io/2020/09/07/cpcExitLinkages/">8.封闭式CPC出口：无入口信息</a></p>
+<p><a href="http://lanepadsys.github.io/2020/11/11/EnclosedetcNoCardTransactions/">9.封闭式无卡交易</a></p>
+<p><a href="http://lanepadsys.github.io/2020/11/10/EnclosedetcCardTransactions/">10.封闭式ETC交易</a></p>
+<p><a href="http://lanepadsys.github.io/2020/11/09/laneFlowQuery/">11.流水查询</a></p>
+<p><a href="http://lanepadsys.github.io/2020/09/08/myMmessage/">12.其他功能</a></p>
+<div id="dplayer0" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer0"),"theme":"#FADFA3","loop":true,"video":{"url":"/pub-images/video/升级.mp4"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script>
+
+
+
+
+]]></content>
+  </entry>
+  <entry>
+    <title>开放式出口：ETC(无卡交易)</title>
+    <url>/2020/10/23/etcNoCardTransactions/</url>
+    <content><![CDATA[<h1 id="开放式ETC出口联动-无卡交易"><a href="#开放式ETC出口联动-无卡交易" class="headerlink" title="开放式ETC出口联动(无卡交易)"></a>开放式ETC出口联动(无卡交易)</h1><p>&emsp;&emsp;登录成功，进入如图 1-6所示的系统主页面，系统首页为  ETC无卡交易操作页面。<br>&emsp;&emsp;前提：已在系统配置中启用出口车道。<br>&emsp;&emsp;使用场景：客户车辆由出口ETC车道或混合车道驶入、且安装成套卡签、标签未拆卸时。</p>
+<table>
+  <td><img src="/pub-images/laneNoCard0.png"  width="30%" /><div style="text-align:center;">图1.6</div></td>
+   </table>
+<div style="font-weight:bold;">&emsp;&emsp;ETC出口：客车操作</div>
+&emsp;&emsp;【选择车道】—【ETC无卡交易】—【选择车型】—【选择车种】—【输入车牌号】—【选择颜色】—【拍摄照片】—【提交图片数据】—【算费】—【提交数据】
+
+<h1 id="开放式ETC出口联动-无卡交易-1"><a href="#开放式ETC出口联动-无卡交易-1" class="headerlink" title="开放式ETC出口联动(无卡交易)"></a>开放式ETC出口联动(无卡交易)</h1><p>&emsp;&emsp;在系统首页 ETC页面，选择联动的车道，再点击屏幕中央【ETC联动无卡交易】按钮，进入 ETC出口联动无卡交易界面，如图1-7所示，ETC出口联动操作步骤如下：</p>
+ <table>
+   <td><img src="/pub-images/laneNoCard1.png"  width="30%" /><div style="text-align:center;">图1.7</div></td>
+    </table>
+&emsp;&emsp;1.无卡交易，在【出口信息】选择如图 1-8所示；
+ <table>
+ <td><img src="/pub-images/laneNoCard1.png"  width="60%" /><div style="text-align:center;">图1.7</div></td>
+ <td><img src="/pub-images/laneNoCard2.png"  width="60%" /><div style="text-align:center;">图1.8</div></td>
+       </table>
+&emsp;&emsp;2.图片上传：在图像识别区域输入实际车牌号、选择实际车牌颜色，点击拍摄车辆照片，再点击界面【提交图片数据】按钮，如图 1-9所示
+
+<p>&emsp;&emsp;3.图片上传完成之后：在【出口信息】区域内，请选择相应的车型，车种进行核对。如图 1-10所示</p>
+<table>
+  <td><img src="/pub-images/laneCpc4.png"  width="60%" /><div style="text-align:center;">图1.9</div></td>
+  <td><img src="/pub-images/laneCpc5.png"  width="60%" /><div style="text-align:center;">图1.10</div></td>
+   </table>
+&emsp;&emsp;4.出口算费：在出口信息填写区域，选择实际出口车型、车种，再点击下方【算费】按钮，算费成功后在收费信息区域显示金额。
+
+<p>&emsp;&emsp;5.数据上传：算费成功后，将手持机放置 ETC卡签旁，再点击界面下方【提交数据】按钮，上传 ETC出口数据，如图  1-12所示，同时向卡签内写入车辆出口信息。</p>
+<table>
+  <td><img src="/pub-images/laneCpc7.png"  width="60%" /><div style="text-align:center;">图1.11</div></td>
+   <td><img src="/pub-images/laneCpc8.png"  width="60%" /><div style="text-align:center;">图1.10</div></td>
+   </table>
+
+<div style="font-weight:bold;">注意：不操作 ETC出口联动功能时，请返回至【ETC联动】主界面。</div>
+]]></content>
+      <tags>
+        <tag>出口</tag>
+        <tag>MTC</tag>
+        <tag>开放式</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>高速公路车道手持便携式收费系统</title>
+    <url>/2020/12/27/lanePad/</url>
+    <content><![CDATA[<h1 id="背景"><a href="#背景" class="headerlink" title="背景"></a>背景</h1><p>&emsp;&emsp;目前高速公路收费仍然需要车辆停车取卡、交卡、缴费、等待票据等，容易造成缴费拥堵，严重影响通行能力，同时也带来了一系列的交通安全隐患。高速公路实行全 ETC通道已经是时代发展的潮流，实现迅速收费或解决无人值守情况下设备故障的问题，需要应急收费系统。收费站的设施建设没有赶上日益增长的交通运输的需求，与现今经济形势对于服务和效率的标准不相适。车辆拥堵过程中产生的废气，占用的车道时长等。</p>
+<img src="/pub-images/lane-1.jpg" width="100%" height="480px" alt=""/>
+
+<p>&emsp;&emsp;近年来随着通信技术的推广应用，我们开启了全新的思维模式，可以通过更加智能的手段，完成我们工作生活中一些难以处理的细节难题。从实际角度出发，智能的设备应用在很大程度上开阔了行业的发展未来，在大幅度缩小人力物力成本开支的同时，还可以数倍数十倍的提升现阶段效率，开启了当之无愧的智能时代。</p>
+<p>&emsp;&emsp;交通作业高速公路车道手持便携式收费系统相对于传统的收费站系统设备相比，交通作业高速公路车道手持便携式收费系统更先进，可直接通过无线网络和PC，服务器进行实时数据通讯，其通讯数据实时性强，效率高。</p>
+<h1 id="理论价值"><a href="#理论价值" class="headerlink" title="理论价值"></a>理论价值</h1><p>&emsp;&emsp;随着我国交通基础设施建设的快速发展，国人的汽车保有量突飞猛进，交通流量与日俱增，交通拥堵，交通收费问题已是摆在我们面前的一项重要任务。随着互联网+的发展，智慧交通让人们的日常出行更高效，便携。为解决高速公路系统施工线繁琐，维护环节多，维护成本高，低效率等问题，融入手持机物联网的概念和技术，提出基于手持机物联网的高速公路一体化手持机车道控制终端系统设计。高速公路一体化手持机车道控制终端系统以高可靠性及高效率无线点对点的方式控制现在收费站车道外设设备，有效避免了车辆拥堵，降低了高速公路车辆拥堵的情况，提高了车辆通行的效率，推进了高速公路收费系统技术发展，为道路运营及公众出行提供了更智能化的服务，有利于促进交通作业向智能化方向发展。</p>
+<h1 id="社会价值"><a href="#社会价值" class="headerlink" title="社会价值"></a>社会价值</h1><p>&emsp;&emsp;通过交通作业高速公路车道手持便携式收费系统的研究能大幅度提高我国交通作业的科技水平，有效的解决车辆在高速公路的拥堵情况，并且，能在收费站快速的疏通车辆，为交通作业人员减轻极大的压力，以避免严重的交通事故的发生，有利于解决一系列公共交通问题，有利于提高交通部门的决策水平，服务效率，产生巨大的社会价值，促进社会和谐稳定发展。</p>
+]]></content>
+      <tags>
+        <tag>智能</tag>
+        <tag>收费</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>车道收费手持机系统升级方法</title>
+    <url>/2021/09/17/laneUpdate/</url>
+    <content><![CDATA[<h2 id="升级注意事项："><a href="#升级注意事项：" class="headerlink" title="升级注意事项："></a>升级注意事项：</h2><p>&emsp;&emsp;<font color=red>请保持手持机电量在 30%以上，升级时请不要移动设备。</font></p>
+<h1 id="1-打开“设置”应用："><a href="#1-打开“设置”应用：" class="headerlink" title="1.打开“设置”应用："></a>1.打开“设置”应用：</h1><img src="/pub-images/laneUpdate1.png" width="20%" height="20%" alt=""/>
+
+<h1 id="2-点击“系统”"><a href="#2-点击“系统”" class="headerlink" title="2.点击“系统”:"></a>2.点击“系统”:</h1><img src="/pub-images/laneUpdate2.png" width="50%" height="50%" alt=""/>
+
+<h1 id="3-点击“关于手机”"><a href="#3-点击“关于手机”" class="headerlink" title="3.点击“关于手机”:"></a>3.点击“关于手机”:</h1><img src="/pub-images/laneUpdate3.png" width="50%" height="50%" alt=""/>
+
+<h1 id="4-点击“其他系统更新”"><a href="#4-点击“其他系统更新”" class="headerlink" title="4.点击“其他系统更新”:"></a>4.点击“其他系统更新”:</h1><img src="/pub-images/laneUpdate4.png" width="50%" height="50%" alt=""/>
+
+<h1 id="5-点击“立即检查”"><a href="#5-点击“立即检查”" class="headerlink" title="5.点击“立即检查”:"></a>5.点击“立即检查”:</h1><img src="/pub-images/laneUpdate5.png" width="50%" height="50%" alt=""/>
+
+<h1 id="6-系统更新，选择“是”"><a href="#6-系统更新，选择“是”" class="headerlink" title="6.系统更新，选择“是”:"></a>6.系统更新，选择“是”:</h1><img src="/pub-images/laneUpdate6.png" width="50%" height="50%" alt=""/>
+
+<h1 id="7-下载更新包"><a href="#7-下载更新包" class="headerlink" title="7.下载更新包:"></a>7.下载更新包:</h1><img src="/pub-images/laneUpdate7.png" width="50%" height="50%" alt=""/>
+
+<h1 id="8-下载完成后，系统会自动重启并升级"><a href="#8-下载完成后，系统会自动重启并升级" class="headerlink" title="8.下载完成后，系统会自动重启并升级:"></a>8.下载完成后，系统会自动重启并升级:</h1><img src="/pub-images/laneUpdate8.png" width="50%" height="50%" alt=""/>
+
+<h1 id="9-等待系统完成升级，请不要移动设备"><a href="#9-等待系统完成升级，请不要移动设备" class="headerlink" title="9.等待系统完成升级，请不要移动设备:"></a>9.等待系统完成升级，请不要移动设备:</h1><img src="/pub-images/laneUpdate9.png" width="50%" height="50%" alt=""/>
+
+<h1 id="10-升级完成后，系统会正常开机。"><a href="#10-升级完成后，系统会正常开机。" class="headerlink" title="10.升级完成后，系统会正常开机。"></a>10.升级完成后，系统会正常开机。</h1>]]></content>
+      <tags>
+        <tag>系统升级</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>其他功能</title>
+    <url>/2020/09/08/myMmessage/</url>
+    <content><![CDATA[<h1 id="其他功能"><a href="#其他功能" class="headerlink" title="其他功能"></a>其他功能</h1><p>&emsp;&emsp;点击系统主页面下方按钮【我的】，可切换至其他功能页面，如图1-52所示；该界面【修改车型】功能正在开发中，暂不能点击</p>
+<table>
+  <td><img src="/pub-images/myMmessage-1.jpg"  width="25%" /><div style="text-align:center;">图1-52</div></td>
+   </table>
+
+<h1 id="关于"><a href="#关于" class="headerlink" title="关于"></a>关于</h1><p>&emsp;&emsp;点击【关于】按钮，可查看本系统各版本更新内容，如图 1-53所示</p>
+<table>
+  <td><img src="/pub-images/myMmessage-2.jpg"  width="25%" /><div style="text-align:center;">图1-53</div></td>
+   </table>
+
+<h1 id="使用指南"><a href="#使用指南" class="headerlink" title="使用指南"></a>使用指南</h1><p>&emsp;&emsp;点击【使用指南】按钮，可查看本系统操作手册，如图 1-54所示；</p>
+<table>
+  <td><img src="/pub-images/myMmessage-3.jpg"  width="25%" /><div style="text-align:center;">图1-54</div></td>
+   </table>
+
+<h1 id="清除标签入口信息"><a href="#清除标签入口信息" class="headerlink" title="清除标签入口信息"></a>清除标签入口信息</h1><div style="font-weight:bold;">&emsp;&emsp;ETC卡签内已写入入口信息、但司机要求领用  CPC卡时，可在此功能下清除 ETC卡签中的入口信息。</div>
+&emsp;&emsp;点击【清除标签入口信息】按钮，进入图 1-55所示界面
+<table>
+  <td><img src="/pub-images/myMmessage-4.jpg"  width="60%" /><div style="text-align:center;">图1-55</div></td>
+   </table>
+&emsp;&emsp;将手持机放置到ETC卡签旁，点击界面【读卡】按钮，读卡成功显示如图 1-56所示信息
+<table>
+  <td><img src="/pub-images/myMmessage-5.jpg"  width="60%" /><div style="text-align:center;">图1-56</div></td>
+   </table>
+&emsp;&emsp;点击【清除信息】按钮，清除 ETC卡签内写入的入口信息，如图 1-57所示
+<table>
+  <td><img src="/pub-images/myMmessage-6.jpg"  width="30%" /><div style="text-align:center;">图1-57</div></td>
+   </table>
+
+<h1 id="退出登录"><a href="#退出登录" class="headerlink" title="退出登录"></a>退出登录</h1><p>&emsp;&emsp;点击【退出登录】按钮，可退出本系统返回至登录页面</p>
+<table>
+  <td><img src="/pub-images/laneLogin.png"  width="30%" /><div style="text-align:center;">图1-57</div></td>
+   </table>
+]]></content>
+      <tags>
+        <tag>关于</tag>
+        <tag>我的</tag>
+        <tag>使用指南</tag>
+        <tag>清除信息</tag>
+        <tag>退出</tag>
+        <tag>升级下载</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>开放式出口：ETC联动</title>
+    <url>/2020/10/22/etcExitLinkage/</url>
+    <content><![CDATA[<h1 id="开放式ETC出口联动"><a href="#开放式ETC出口联动" class="headerlink" title="开放式ETC出口联动"></a>开放式ETC出口联动</h1><p>&emsp;&emsp;登录成功，进入如图 1-6所示的系统主页面，系统首页为  ETC联动操作页面。<br>&emsp;&emsp;前提：已在系统配置中启用出口车道。<br>&emsp;&emsp;使用场景：客户车辆由出口ETC车道或混合车道驶入、且安装成套卡签、标签未拆卸时。</p>
+<table>
+  <td><img src="/pub-images/laneCpc1.png"  width="30%" /><div style="text-align:center;">图1.6</div></td>
+   </table>
+<div style="font-weight:bold;">&emsp;&emsp;ETC出口：客车操作</div>
+&emsp;&emsp;【选择车道】—【ETC联动】—【读卡】—【选择车型】—【选择车种】—【核对车牌号】—【选择颜色】—【拍摄照片】—【提交图片数据】—【算费】—【提交数据】
+
+<h1 id="开放式ETC出口联动-具体流程"><a href="#开放式ETC出口联动-具体流程" class="headerlink" title="开放式ETC出口联动(具体流程)"></a>开放式ETC出口联动(具体流程)</h1><p>&emsp;&emsp;在系统首页 ETC页面，选择联动的车道，再点击屏幕中央【ETC联动】按钮，进入 ETC出口联动界面，如图1-7所示，ETC出口联动操作步骤如下：</p>
+   <table>
+        <td><img src="/pub-images/laneCpc1.png"  width="60%" /><div style="text-align:center;">图1.6</div></td>
+        <td><img src="/pub-images/laneCpc2.png"  width="60%" /><div style="text-align:center;">图1.7</div></td>
+       </table>
+&emsp;&emsp;1.读卡签：确认 ETC卡已插入电子标签后点击界面【读卡】按钮，读取ETC卡与电子标签内写入的车辆信息，同时由系统自动校验读取的卡签车辆信息一致性、卡签有效性、状态名单等，卡签信息读取成功且校验通过后显示到界面，且显示图像识别区域，如图 1-8所示；
+ <table>
+ <td><img src="/pub-images/laneCpc2.png"  width="60%" /><div style="text-align:center;">图1.7</div></td>
+ <td><img src="/pub-images/laneCpc3.png"  width="60%" /><div style="text-align:center;">图1.8</div></td>
+       </table>
+&emsp;&emsp;2.图片上传：在图像识别区域输入实际车牌号、选择实际车牌颜色，点击拍摄车辆照片，再点击界面【提交图片数据】按钮，如图 1-9所示
+
+<p>&emsp;&emsp;3.图片上传完成之后：在【出口信息】区域内，请选择相应的车型，车种进行核对。如图 1-10所示</p>
+<table>
+  <td><img src="/pub-images/laneCpc4.png"  width="60%" /><div style="text-align:center;">图1.9</div></td>
+  <td><img src="/pub-images/laneCpc5.png"  width="60%" /><div style="text-align:center;">图1.10</div></td>
+   </table>
+&emsp;&emsp;4.出口算费：在出口信息填写区域，选择实际出口车型、车种，再点击下方【算费】按钮，算费成功后在收费信息区域显示金额。
+
+<p>&emsp;&emsp;5.数据上传：算费成功后，将手持机放置 ETC卡签旁，再点击界面下方【提交数据】按钮，上传 ETC出口数据，如图  1-12所示，同时向卡签内写入车辆出口信息。</p>
+<table>
+  <td><img src="/pub-images/laneCpc7.png"  width="60%" /><div style="text-align:center;">图1.11</div></td>
+   <td><img src="/pub-images/laneCpc8.png"  width="60%" /><div style="text-align:center;">图1.10</div></td>
+   </table>
+
+<div style="font-weight:bold;">注意：不操作 ETC出口联动功能时，请返回至【ETC联动】主界面。</div>
+]]></content>
+      <tags>
+        <tag>出口</tag>
+        <tag>ETC</tag>
+        <tag>开放式</tag>
+      </tags>
+  </entry>
+</search>
